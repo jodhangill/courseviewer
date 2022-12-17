@@ -1,1 +1,2 @@
 # courseviewer
+sfu course viewer
