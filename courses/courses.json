@@ -1,0 +1,6378 @@
+[
+    {
+        "text": "APMA995",
+        "value": "995",
+        "title": "PhD Oral Candidacy Exam"
+    }
+,
+    {
+        "text": "ARCH100",
+        "value": "100",
+        "title": "Ancient Peoples and Places"
+    },
+    {
+        "text": "ARCH101",
+        "value": "101",
+        "title": "Reconstructing the Human Past"
+    },
+    {
+        "text": "ARCH131",
+        "value": "131",
+        "title": "Human Origins"
+    },
+    {
+        "text": "ARCH200",
+        "value": "200",
+        "title": "Special Topics in World Prehistory"
+    },
+    {
+        "text": "ARCH226",
+        "value": "226",
+        "title": "Shamans, Sacrifice and Psychedelics"
+    },
+    {
+        "text": "ARCH301",
+        "value": "301",
+        "title": "Ancient Visual Art"
+    },
+    {
+        "text": "ARCH350",
+        "value": "350",
+        "title": "Practicum I"
+    },
+    {
+        "text": "ARCH351",
+        "value": "351",
+        "title": "Practicum II"
+    },
+    {
+        "text": "ARCH428",
+        "value": "428",
+        "title": "Soil Micromorphology"
+    },
+    {
+        "text": "ARCH434",
+        "value": "434",
+        "title": "Archaeological Field Methods"
+    },
+    {
+        "text": "ARCH435",
+        "value": "435",
+        "title": "Field Work Practicum"
+    },
+    {
+        "text": "ARCH450",
+        "value": "450",
+        "title": "Practicum III"
+    },
+    {
+        "text": "ARCH451",
+        "value": "451",
+        "title": "Practicum IV"
+    },
+    {
+        "text": "ARCH479",
+        "value": "479",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "ARCH480",
+        "value": "480",
+        "title": "Directed Laboratory/Library/Field Research"
+    },
+    {
+        "text": "ARCH498",
+        "value": "498",
+        "title": "Honours Reading"
+    },
+    {
+        "text": "ARCH499",
+        "value": "499",
+        "title": "Honours Thesis"
+    },
+    {
+        "text": "ARCH591",
+        "value": "591",
+        "title": "Directed Study in Heritage Resource Management"
+    },
+    {
+        "text": "ARCH874",
+        "value": "874",
+        "title": "PhD Prospectus & Colloquium"
+    },
+    {
+        "text": "ARCH875",
+        "value": "875",
+        "title": "PhD Comprehensive Examination"
+    },
+    {
+        "text": "ARCH892",
+        "value": "892",
+        "title": "Directed Readings in Prehistory"
+    },
+    {
+        "text": "ARCH893",
+        "value": "893",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "ARCH896",
+        "value": "896",
+        "title": "Directed Laboratory/Library/Field Research"
+    },
+    {
+        "text": "ARCH898",
+        "value": "898",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "ARCH899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "BPK105",
+        "value": "105",
+        "title": "The Anatomy and Physiology of Human Survival"
+    },
+    {
+        "text": "BPK110",
+        "value": "110",
+        "title": "Human Nutrition: Current Issues"
+    },
+    {
+        "text": "BPK140",
+        "value": "140",
+        "title": "Contemporary Health Issues"
+    },
+    {
+        "text": "BPK142",
+        "value": "142",
+        "title": "Introduction to Biomedical Physiology and Kinesiology"
+    },
+    {
+        "text": "BPK241",
+        "value": "241",
+        "title": "Sports Injuries - Prevention and Rehabilitation"
+    },
+    {
+        "text": "BPK304W",
+        "value": "304w",
+        "title": "Inquiry and Measurement in Biomedical Physiology and Kinesiology"
+    },
+    {
+        "text": "BPK310",
+        "value": "310",
+        "title": "Exercise/Work Physiology"
+    },
+    {
+        "text": "BPK326",
+        "value": "326",
+        "title": "Functional Anatomy"
+    },
+    {
+        "text": "BPK340",
+        "value": "340",
+        "title": "Active Health: Behavior and Promotion"
+    },
+    {
+        "text": "BPK351",
+        "value": "351",
+        "title": "Practicum I"
+    },
+    {
+        "text": "BPK352",
+        "value": "352",
+        "title": "Practicum II"
+    },
+    {
+        "text": "BPK375",
+        "value": "375",
+        "title": "Human Growth and Development"
+    },
+    {
+        "text": "BPK409",
+        "value": "409",
+        "title": "Wearable Technology and Human Physiology"
+    },
+    {
+        "text": "BPK451",
+        "value": "451",
+        "title": "Practicum III"
+    },
+    {
+        "text": "BPK451W",
+        "value": "451w",
+        "title": "Practicum III"
+    },
+    {
+        "text": "BPK452",
+        "value": "452",
+        "title": "Practicum IV"
+    },
+    {
+        "text": "BPK453",
+        "value": "453",
+        "title": "Practicum V"
+    },
+    {
+        "text": "BPK457",
+        "value": "457",
+        "title": "Behavioural Neuroscience Undergraduate Honours Thesis Proposal"
+    },
+    {
+        "text": "BPK459",
+        "value": "459",
+        "title": "Behavioural Neuroscience Undergraduate Honours Thesis"
+    },
+    {
+        "text": "BPK481",
+        "value": "481",
+        "title": "Musculoskeletal Disorders"
+    },
+    {
+        "text": "BPK491",
+        "value": "491",
+        "title": "Undergraduate Honours Thesis Proposal"
+    },
+    {
+        "text": "BPK495",
+        "value": "495",
+        "title": "Undergraduate Honours Research Performance"
+    },
+    {
+        "text": "BPK496",
+        "value": "496",
+        "title": "Directed Study Literature"
+    },
+    {
+        "text": "BPK498",
+        "value": "498",
+        "title": "Directed Study Experiential"
+    },
+    {
+        "text": "BPK499",
+        "value": "499",
+        "title": "Undergraduate Honours Thesis Reporting"
+    },
+    {
+        "text": "BPK805",
+        "value": "805",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "BPK895",
+        "value": "895",
+        "title": "MSc Proposal"
+    },
+    {
+        "text": "BPK896",
+        "value": "896",
+        "title": "PhD Comprehensive Examination"
+    },
+    {
+        "text": "BPK897",
+        "value": "897",
+        "title": "PhD Seminar"
+    },
+    {
+        "text": "BPK898",
+        "value": "898",
+        "title": "MSc Thesis"
+    },
+    {
+        "text": "BPK899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "ALS603",
+        "value": "603",
+        "title": "Legal Philosophy"
+    },
+    {
+        "text": "ALS612",
+        "value": "612",
+        "title": "Real Property II"
+    }
+,
+    {
+        "text": "ARAB100",
+        "value": "100",
+        "title": "Introductory Arabic I"
+    }
+,
+    {
+        "text": "CA104",
+        "value": "104",
+        "title": "Music Fundamentals"
+    },
+    {
+        "text": "CA135",
+        "value": "135",
+        "title": "Introduction to Cinema"
+    },
+    {
+        "text": "CA140",
+        "value": "140",
+        "title": "Contexts in Creative Music and Sound Practice"
+    },
+    {
+        "text": "CA142",
+        "value": "142",
+        "title": "Music Appreciation in the 21st Century"
+    },
+    {
+        "text": "CA149",
+        "value": "149",
+        "title": "Sound"
+    },
+    {
+        "text": "CA216",
+        "value": "216",
+        "title": "Selected Topics in Cinema Studies"
+    },
+    {
+        "text": "CA263",
+        "value": "263",
+        "title": "Methods and Concepts: Painting-based Practices"
+    },
+    {
+        "text": "CA285",
+        "value": "285",
+        "title": "Interdisciplinary Studio - Composition/Collaboration"
+    },
+    {
+        "text": "CA304",
+        "value": "304",
+        "title": "Professional Practices in the Contemporary Arts"
+    },
+    {
+        "text": "CA305",
+        "value": "305",
+        "title": "Explorations in Contemporary Arts I"
+    },
+    {
+        "text": "CA306",
+        "value": "306",
+        "title": "Practicum in Contemporary Arts I"
+    },
+    {
+        "text": "CA307",
+        "value": "307",
+        "title": "Internship in Contemporary Arts I"
+    },
+    {
+        "text": "CA308",
+        "value": "308",
+        "title": "Contemporary Arts Field School I (Theory/History)"
+    },
+    {
+        "text": "CA309",
+        "value": "309",
+        "title": "Contemporary Arts Field School II (Studio)"
+    },
+    {
+        "text": "CA316",
+        "value": "316",
+        "title": "Intermediate Selected Topics in Cinema Studies"
+    },
+    {
+        "text": "CA363",
+        "value": "363",
+        "title": "Methods and Concepts: Painting Practices"
+    },
+    {
+        "text": "CA386",
+        "value": "386",
+        "title": "Film Music: An Overview of the Relationship between Music and Moving Pictures"
+    },
+    {
+        "text": "CA400",
+        "value": "400",
+        "title": "Directed Studies (Studio)"
+    },
+    {
+        "text": "CA401",
+        "value": "401",
+        "title": "Directed Studies (Theory/History)"
+    },
+    {
+        "text": "CA405",
+        "value": "405",
+        "title": "Explorations in Contemporary Arts II"
+    },
+    {
+        "text": "CA406",
+        "value": "406",
+        "title": "Practicum in Contemporary Arts II"
+    },
+    {
+        "text": "CA407",
+        "value": "407",
+        "title": "Internship in Contemporary Arts II"
+    },
+    {
+        "text": "CA408",
+        "value": "408",
+        "title": "Contemporary Arts Field School III (Theory/History)"
+    },
+    {
+        "text": "CA409",
+        "value": "409",
+        "title": "Contemporary Arts Field School IV (Studio)"
+    },
+    {
+        "text": "CA412W",
+        "value": "412w",
+        "title": "Advanced Seminar in Art and Performance Studies"
+    },
+    {
+        "text": "CA485",
+        "value": "485",
+        "title": "Interdisciplinary Collaboration in Contemporary Arts"
+    },
+    {
+        "text": "CA827",
+        "value": "827",
+        "title": "Practicum in Contemporary Arts"
+    },
+    {
+        "text": "CA829",
+        "value": "829",
+        "title": "Extended Essay in Contemporary Arts"
+    },
+    {
+        "text": "CA830",
+        "value": "830",
+        "title": "Internship in Contemporary Arts"
+    },
+    {
+        "text": "CA877",
+        "value": "877",
+        "title": "Selected Topics in Contemporary Arts"
+    },
+    {
+        "text": "CA889",
+        "value": "889",
+        "title": "Directed Study in Contemporary Arts"
+    },
+    {
+        "text": "CA892",
+        "value": "892",
+        "title": "PhD Qualifying Examinations"
+    },
+    {
+        "text": "CA895",
+        "value": "895",
+        "title": "PhD Thesis Prospectus"
+    },
+    {
+        "text": "CA898",
+        "value": "898",
+        "title": "Master of Fine Arts Graduating Project"
+    }
+,
+    {
+        "text": "ACMA336",
+        "value": "336",
+        "title": "Job Practicum I"
+    },
+    {
+        "text": "ACMA337",
+        "value": "337",
+        "title": "Job Practicum II"
+    },
+    {
+        "text": "ACMA436",
+        "value": "436",
+        "title": "Job Practicum III"
+    },
+    {
+        "text": "ACMA437",
+        "value": "437",
+        "title": "Job Practicum IV"
+    },
+    {
+        "text": "ACMA438",
+        "value": "438",
+        "title": "Job Practicum V"
+    }
+,
+    {
+        "text": "BISC100",
+        "value": "100",
+        "title": "Introduction to Biology"
+    },
+    {
+        "text": "BISC101",
+        "value": "101",
+        "title": "General Biology"
+    },
+    {
+        "text": "BISC102",
+        "value": "102",
+        "title": "General Biology"
+    },
+    {
+        "text": "BISC202",
+        "value": "202",
+        "title": "Genetics"
+    },
+    {
+        "text": "BISC298",
+        "value": "298",
+        "title": "Introduction to Undergraduate Research in Biological Sciences"
+    },
+    {
+        "text": "BISC300",
+        "value": "300",
+        "title": "Evolution"
+    },
+    {
+        "text": "BISC303",
+        "value": "303",
+        "title": "Microbiology"
+    },
+    {
+        "text": "BISC305",
+        "value": "305",
+        "title": "Animal Physiology"
+    },
+    {
+        "text": "BISC316",
+        "value": "316",
+        "title": "Vertebrate Biology"
+    },
+    {
+        "text": "BISC341",
+        "value": "341",
+        "title": "Practicum I"
+    },
+    {
+        "text": "BISC342",
+        "value": "342",
+        "title": "Practicum II"
+    },
+    {
+        "text": "BISC410",
+        "value": "410",
+        "title": "Behavioral Ecology"
+    },
+    {
+        "text": "BISC443",
+        "value": "443",
+        "title": "Practicum III"
+    },
+    {
+        "text": "BISC444",
+        "value": "444",
+        "title": "Practicum IV"
+    },
+    {
+        "text": "BISC446",
+        "value": "446",
+        "title": "Practicum V"
+    },
+    {
+        "text": "BISC490",
+        "value": "490",
+        "title": "Research Design"
+    },
+    {
+        "text": "BISC491",
+        "value": "491",
+        "title": "Research Technique"
+    },
+    {
+        "text": "BISC492W",
+        "value": "492w",
+        "title": "Research Reporting"
+    },
+    {
+        "text": "BISC497W",
+        "value": "497w",
+        "title": "Undergraduate Research: Writing Intensive"
+    },
+    {
+        "text": "BISC498",
+        "value": "498",
+        "title": "Undergraduate Research I"
+    },
+    {
+        "text": "BISC499",
+        "value": "499",
+        "title": "Undergraduate Research II"
+    },
+    {
+        "text": "BISC656",
+        "value": "656",
+        "title": "Master of Environmental Toxicology Project"
+    },
+    {
+        "text": "BISC849",
+        "value": "849",
+        "title": "Master of Pest Management Thesis"
+    },
+    {
+        "text": "BISC879",
+        "value": "879",
+        "title": "Special Topics III"
+    },
+    {
+        "text": "BISC888",
+        "value": "888",
+        "title": "Directed Readings in Biology"
+    },
+    {
+        "text": "BISC889",
+        "value": "889",
+        "title": "Directed Readings in Biology"
+    },
+    {
+        "text": "BISC890",
+        "value": "890",
+        "title": "Directed Readings in Biology"
+    },
+    {
+        "text": "BISC892",
+        "value": "892",
+        "title": "PhD Graduate Candidacy Exam"
+    },
+    {
+        "text": "BISC898",
+        "value": "898",
+        "title": "MSc Thesis"
+    },
+    {
+        "text": "BISC899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "BUS100",
+        "value": "100",
+        "title": "Professional Development - Launch"
+    },
+    {
+        "text": "BUS200",
+        "value": "200",
+        "title": "Business Fundamentals"
+    },
+    {
+        "text": "BUS202",
+        "value": "202",
+        "title": "Foundations of Business"
+    },
+    {
+        "text": "BUS207",
+        "value": "207",
+        "title": "Managerial Economics"
+    },
+    {
+        "text": "BUS217W",
+        "value": "217w",
+        "title": "Critical Thinking in Business"
+    },
+    {
+        "text": "BUS221",
+        "value": "221",
+        "title": "Personal Finance"
+    },
+    {
+        "text": "BUS225",
+        "value": "225",
+        "title": "Co-op Practicum I"
+    },
+    {
+        "text": "BUS232",
+        "value": "232",
+        "title": "Business Statistics"
+    },
+    {
+        "text": "BUS233",
+        "value": "233",
+        "title": "Introduction to Business Law and Ethics"
+    },
+    {
+        "text": "BUS237",
+        "value": "237",
+        "title": "Introduction to Business Technology Management"
+    },
+    {
+        "text": "BUS238",
+        "value": "238",
+        "title": "Introduction to Entrepreneurship and Innovation"
+    },
+    {
+        "text": "BUS240",
+        "value": "240",
+        "title": "Introduction to Innovation"
+    },
+    {
+        "text": "BUS251",
+        "value": "251",
+        "title": "Financial Accounting I"
+    },
+    {
+        "text": "BUS254",
+        "value": "254",
+        "title": "Managerial Accounting I"
+    },
+    {
+        "text": "BUS272",
+        "value": "272",
+        "title": "Behaviour in Organizations"
+    },
+    {
+        "text": "BUS275",
+        "value": "275",
+        "title": "Business in a Sustainable Society"
+    },
+    {
+        "text": "BUS300",
+        "value": "300",
+        "title": "Professional Development - Planning"
+    },
+    {
+        "text": "BUS303",
+        "value": "303",
+        "title": "Business, Society and Ethics"
+    },
+    {
+        "text": "BUS311",
+        "value": "311",
+        "title": "Introduction to Managerial Accounting and Financial Management"
+    },
+    {
+        "text": "BUS312",
+        "value": "312",
+        "title": "Introduction to Finance"
+    },
+    {
+        "text": "BUS315",
+        "value": "315",
+        "title": "Investments"
+    },
+    {
+        "text": "BUS316",
+        "value": "316",
+        "title": "Derivative Securities"
+    },
+    {
+        "text": "BUS318",
+        "value": "318",
+        "title": "Management of Equity and Fixed Income Investments"
+    },
+    {
+        "text": "BUS320",
+        "value": "320",
+        "title": "Financial Accounting:  Assets"
+    },
+    {
+        "text": "BUS321",
+        "value": "321",
+        "title": "Financial Accounting: Equities"
+    },
+    {
+        "text": "BUS322",
+        "value": "322",
+        "title": "Intermediate Managerial Accounting"
+    },
+    {
+        "text": "BUS325",
+        "value": "325",
+        "title": "Co-op Practicum II"
+    },
+    {
+        "text": "BUS326",
+        "value": "326",
+        "title": "Co-op Practicum III"
+    },
+    {
+        "text": "BUS327",
+        "value": "327",
+        "title": "Co-op Practicum IV"
+    },
+    {
+        "text": "BUS330",
+        "value": "330",
+        "title": "Income Taxation for Individuals"
+    },
+    {
+        "text": "BUS331",
+        "value": "331",
+        "title": "Corporate Taxation"
+    },
+    {
+        "text": "BUS336",
+        "value": "336",
+        "title": "Data Analytics and Visualization"
+    },
+    {
+        "text": "BUS340",
+        "value": "340",
+        "title": "International Business Strategy"
+    },
+    {
+        "text": "BUS341",
+        "value": "341",
+        "title": "Fundamentals of Marketing"
+    },
+    {
+        "text": "BUS343",
+        "value": "343",
+        "title": "Introduction to Marketing"
+    },
+    {
+        "text": "BUS345",
+        "value": "345",
+        "title": "Marketing Research"
+    },
+    {
+        "text": "BUS346",
+        "value": "346",
+        "title": "Global Business Environment"
+    },
+    {
+        "text": "BUS347",
+        "value": "347",
+        "title": "Consumer Behaviour"
+    },
+    {
+        "text": "BUS360W",
+        "value": "360w",
+        "title": "Business Communication"
+    },
+    {
+        "text": "BUS361",
+        "value": "361",
+        "title": "Project Management"
+    },
+    {
+        "text": "BUS362",
+        "value": "362",
+        "title": "Business Process Analysis"
+    },
+    {
+        "text": "BUS373",
+        "value": "373",
+        "title": "Operations and Supply Chain Management"
+    },
+    {
+        "text": "BUS374",
+        "value": "374",
+        "title": "Organization Theory"
+    },
+    {
+        "text": "BUS381",
+        "value": "381",
+        "title": "Introduction to Human Resource Management"
+    },
+    {
+        "text": "BUS393",
+        "value": "393",
+        "title": "Commercial Law"
+    },
+    {
+        "text": "BUS401",
+        "value": "401",
+        "title": "Developing Organizational Opportunities"
+    },
+    {
+        "text": "BUS406",
+        "value": "406",
+        "title": "Startup Accelerator"
+    },
+    {
+        "text": "BUS410",
+        "value": "410",
+        "title": "Financial Institutions"
+    },
+    {
+        "text": "BUS413",
+        "value": "413",
+        "title": "Corporate Finance"
+    },
+    {
+        "text": "BUS417",
+        "value": "417",
+        "title": "Equity Security Analysis"
+    },
+    {
+        "text": "BUS418",
+        "value": "418",
+        "title": "International Financial Management"
+    },
+    {
+        "text": "BUS419",
+        "value": "419",
+        "title": "Advanced Derivative Securities"
+    },
+    {
+        "text": "BUS420",
+        "value": "420",
+        "title": "Advanced Accounting"
+    },
+    {
+        "text": "BUS421",
+        "value": "421",
+        "title": "Accounting Theory"
+    },
+    {
+        "text": "BUS424",
+        "value": "424",
+        "title": "Advanced Managerial Accounting"
+    },
+    {
+        "text": "BUS425",
+        "value": "425",
+        "title": "Co-op Practicum V"
+    },
+    {
+        "text": "BUS426",
+        "value": "426",
+        "title": "Auditing and Assurance: Concepts and Methods"
+    },
+    {
+        "text": "BUS430",
+        "value": "430",
+        "title": "Cross-Cultural Management"
+    },
+    {
+        "text": "BUS434",
+        "value": "434",
+        "title": "Foreign Market Entry"
+    },
+    {
+        "text": "BUS437",
+        "value": "437",
+        "title": "Decision Analysis in Business"
+    },
+    {
+        "text": "BUS444",
+        "value": "444",
+        "title": "Business to Business Marketing"
+    },
+    {
+        "text": "BUS445",
+        "value": "445",
+        "title": "Customer Analytics"
+    },
+    {
+        "text": "BUS447",
+        "value": "447",
+        "title": "Global Marketing Management"
+    },
+    {
+        "text": "BUS455",
+        "value": "455",
+        "title": "Product & Brand Management"
+    },
+    {
+        "text": "BUS462",
+        "value": "462",
+        "title": "Business Analytics"
+    },
+    {
+        "text": "BUS464",
+        "value": "464",
+        "title": "Business Data Management"
+    },
+    {
+        "text": "BUS466",
+        "value": "466",
+        "title": "Web-Enabled Business"
+    },
+    {
+        "text": "BUS468",
+        "value": "468",
+        "title": "Managing Information Technology for Business Value"
+    },
+    {
+        "text": "BUS473",
+        "value": "473",
+        "title": "Advanced Operations Management"
+    },
+    {
+        "text": "BUS474",
+        "value": "474",
+        "title": "Supply Chain Management"
+    },
+    {
+        "text": "BUS478",
+        "value": "478",
+        "title": "Strategy"
+    },
+    {
+        "text": "BUS479",
+        "value": "479",
+        "title": "Strategy Analysis Practicum"
+    },
+    {
+        "text": "BUS481",
+        "value": "481",
+        "title": "Recruitment and Selection"
+    },
+    {
+        "text": "BUS485",
+        "value": "485",
+        "title": "Negotiations and Conflict Management"
+    },
+    {
+        "text": "BUS487",
+        "value": "487",
+        "title": "Organizational Development and Change Management"
+    },
+    {
+        "text": "BUS498",
+        "value": "498",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "BUS510",
+        "value": "510",
+        "title": "Financial and Managerial Accounting"
+    },
+    {
+        "text": "BUS511",
+        "value": "511",
+        "title": "Business Ethics"
+    },
+    {
+        "text": "BUS552",
+        "value": "552",
+        "title": "Managerial Economics"
+    },
+    {
+        "text": "BUS553",
+        "value": "553",
+        "title": "Business Analytics"
+    },
+    {
+        "text": "BUS554",
+        "value": "554",
+        "title": "Information Technology Management"
+    },
+    {
+        "text": "BUS557",
+        "value": "557",
+        "title": "Managing People and Organizations"
+    },
+    {
+        "text": "BUS558",
+        "value": "558",
+        "title": "Special Topics"
+    },
+    {
+        "text": "BUS561",
+        "value": "561",
+        "title": "Special Topics"
+    },
+    {
+        "text": "BUS570",
+        "value": "570",
+        "title": "Project Management"
+    },
+    {
+        "text": "BUS579",
+        "value": "579",
+        "title": "Professional Development"
+    },
+    {
+        "text": "BUS603",
+        "value": "603",
+        "title": "Structure and Change in Organizations"
+    },
+    {
+        "text": "BUS621",
+        "value": "621",
+        "title": "Information Technology and Organizational Transformation"
+    },
+    {
+        "text": "BUS632",
+        "value": "632",
+        "title": "Operations Management"
+    },
+    {
+        "text": "BUS653",
+        "value": "653",
+        "title": "Special Topics in Business Administration"
+    },
+    {
+        "text": "BUS655",
+        "value": "655",
+        "title": "Special Topics in Business Administration"
+    },
+    {
+        "text": "BUS668",
+        "value": "668",
+        "title": "Financial Management for Indigenous Leadership"
+    },
+    {
+        "text": "BUS675",
+        "value": "675",
+        "title": "Indigenous Economies"
+    },
+    {
+        "text": "BUS683",
+        "value": "683",
+        "title": "Negotiations for Indigenous Leaders"
+    },
+    {
+        "text": "BUS699",
+        "value": "699",
+        "title": "Orientation Retreat"
+    },
+    {
+        "text": "BUS714",
+        "value": "714",
+        "title": "Entrepreneurship"
+    },
+    {
+        "text": "BUS715",
+        "value": "715",
+        "title": "Operations Management"
+    },
+    {
+        "text": "BUS716",
+        "value": "716",
+        "title": "Sustainability"
+    },
+    {
+        "text": "BUS718",
+        "value": "718",
+        "title": "Business Strategy"
+    },
+    {
+        "text": "BUS720",
+        "value": "720",
+        "title": "Special Topics in Business Administration"
+    },
+    {
+        "text": "BUS721",
+        "value": "721",
+        "title": "Special Topics in Business Administration"
+    },
+    {
+        "text": "BUS722",
+        "value": "722",
+        "title": "Special Topics in Business Administration"
+    },
+    {
+        "text": "BUS725",
+        "value": "725",
+        "title": "International Applied Project"
+    },
+    {
+        "text": "BUS727",
+        "value": "727",
+        "title": "MBA Internship"
+    },
+    {
+        "text": "BUS729",
+        "value": "729",
+        "title": "Capstone Simulation"
+    },
+    {
+        "text": "BUS730",
+        "value": "730",
+        "title": "Indigenous Business Environments in Community"
+    },
+    {
+        "text": "BUS733",
+        "value": "733",
+        "title": "Negotiations"
+    },
+    {
+        "text": "BUS738",
+        "value": "738",
+        "title": "Operations Management"
+    },
+    {
+        "text": "BUS739",
+        "value": "739",
+        "title": "Managing Information"
+    },
+    {
+        "text": "BUS741",
+        "value": "741",
+        "title": "Indigenous Business Environments"
+    },
+    {
+        "text": "BUS755",
+        "value": "755",
+        "title": "Topics in International Business"
+    },
+    {
+        "text": "BUS758",
+        "value": "758",
+        "title": "Business Operations Design"
+    },
+    {
+        "text": "BUS782",
+        "value": "782",
+        "title": "Capstone Simulation"
+    },
+    {
+        "text": "BUS783",
+        "value": "783",
+        "title": "Entrepreneurship"
+    },
+    {
+        "text": "BUS784",
+        "value": "784",
+        "title": "Special Topics"
+    },
+    {
+        "text": "BUS794",
+        "value": "794",
+        "title": "Leadership and Managing Teams"
+    },
+    {
+        "text": "BUS795",
+        "value": "795",
+        "title": "Financing the New Venture"
+    },
+    {
+        "text": "BUS796",
+        "value": "796",
+        "title": "Business Plan I"
+    },
+    {
+        "text": "BUS797",
+        "value": "797",
+        "title": "Business Plan II"
+    },
+    {
+        "text": "BUS830",
+        "value": "830",
+        "title": "Data Management and Business Solutions"
+    },
+    {
+        "text": "BUS831",
+        "value": "831",
+        "title": "Analyzing and Visualizing Business Data"
+    },
+    {
+        "text": "BUS832",
+        "value": "832",
+        "title": "Accounting Data Analytics"
+    },
+    {
+        "text": "BUS838",
+        "value": "838",
+        "title": "Creativity, Collaboration and Leading Change"
+    },
+    {
+        "text": "BUS840",
+        "value": "840",
+        "title": "Data Mining and Business Intelligence"
+    },
+    {
+        "text": "BUS841",
+        "value": "841",
+        "title": "Predictive Analytics for Business"
+    },
+    {
+        "text": "BUS842",
+        "value": "842",
+        "title": "Advanced Accounting Data Analytics"
+    },
+    {
+        "text": "BUS844",
+        "value": "844",
+        "title": "Forensic Accounting and Data Analytics"
+    },
+    {
+        "text": "BUS870",
+        "value": "870",
+        "title": "Research Project"
+    },
+    {
+        "text": "BUS876",
+        "value": "876",
+        "title": "Special Topics"
+    },
+    {
+        "text": "BUS880",
+        "value": "880",
+        "title": "Student Investment Advisory Service Practicum"
+    },
+    {
+        "text": "BUS888",
+        "value": "888",
+        "title": "Special Topics"
+    },
+    {
+        "text": "BUS890",
+        "value": "890",
+        "title": "Research Methods I"
+    },
+    {
+        "text": "BUS983",
+        "value": "983",
+        "title": "Directed Studies I"
+    },
+    {
+        "text": "BUS984",
+        "value": "984",
+        "title": "Directed Studies II"
+    },
+    {
+        "text": "BUS991",
+        "value": "991",
+        "title": "PhD Comprehensive Exam"
+    },
+    {
+        "text": "BUS992",
+        "value": "992",
+        "title": "PhD Thesis"
+    },
+    {
+        "text": "BUS993",
+        "value": "993",
+        "title": "Thesis Proposal"
+    }
+,
+    {
+        "text": "CHEM110",
+        "value": "110",
+        "title": "Introductory Chemistry"
+    },
+    {
+        "text": "CHEM120",
+        "value": "120",
+        "title": "General Chemistry I"
+    },
+    {
+        "text": "CHEM121",
+        "value": "121",
+        "title": "General Chemistry and Laboratory I"
+    },
+    {
+        "text": "CHEM122",
+        "value": "122",
+        "title": "General Chemistry II"
+    },
+    {
+        "text": "CHEM126",
+        "value": "126",
+        "title": "General Chemistry Laboratory II"
+    },
+    {
+        "text": "CHEM210",
+        "value": "210",
+        "title": "Introduction to Analytical Chemistry"
+    },
+    {
+        "text": "CHEM216",
+        "value": "216",
+        "title": "Introduction to Analytical Chemistry Laboratory"
+    },
+    {
+        "text": "CHEM230",
+        "value": "230",
+        "title": "Inorganic Chemistry"
+    },
+    {
+        "text": "CHEM236W",
+        "value": "236w",
+        "title": "Inorganic Chemistry Laboratory"
+    },
+    {
+        "text": "CHEM281",
+        "value": "281",
+        "title": "Organic Chemistry and Laboratory I"
+    },
+    {
+        "text": "CHEM282",
+        "value": "282",
+        "title": "Organic Chemistry II"
+    },
+    {
+        "text": "CHEM283",
+        "value": "283",
+        "title": "Organic Chemistry IIb"
+    },
+    {
+        "text": "CHEM284",
+        "value": "284",
+        "title": "Organic Chemistry IIb"
+    },
+    {
+        "text": "CHEM286",
+        "value": "286",
+        "title": "Organic Chemistry Laboratory II"
+    },
+    {
+        "text": "CHEM306",
+        "value": "306",
+        "title": "Practicum I"
+    },
+    {
+        "text": "CHEM307",
+        "value": "307",
+        "title": "Practicum II"
+    },
+    {
+        "text": "CHEM360",
+        "value": "360",
+        "title": "Thermodynamics and Chemical Kinetics"
+    },
+    {
+        "text": "CHEM366W",
+        "value": "366w",
+        "title": "Physical Chemistry Laboratory II"
+    },
+    {
+        "text": "CHEM380",
+        "value": "380",
+        "title": "Chemical and Instrumental Methods of Identification of Organic Compounds"
+    },
+    {
+        "text": "CHEM406",
+        "value": "406",
+        "title": "Practicum III"
+    },
+    {
+        "text": "CHEM407",
+        "value": "407",
+        "title": "Practicum IV"
+    },
+    {
+        "text": "CHEM408",
+        "value": "408",
+        "title": "Practicum V"
+    },
+    {
+        "text": "CHEM481",
+        "value": "481",
+        "title": "Undergraduate Research"
+    },
+    {
+        "text": "CHEM482",
+        "value": "482",
+        "title": "Directed Study in Advanced Topics of Chemistry"
+    },
+    {
+        "text": "CHEM483",
+        "value": "483",
+        "title": "Undergraduate Research II"
+    },
+    {
+        "text": "CHEM484",
+        "value": "484",
+        "title": "Two-Semester Undergraduate Research in Chemistry"
+    },
+    {
+        "text": "CHEM898",
+        "value": "898",
+        "title": "MSc Thesis"
+    },
+    {
+        "text": "CHEM899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "COGS100",
+        "value": "100",
+        "title": "Exploring the Mind"
+    },
+    {
+        "text": "COGS110",
+        "value": "110",
+        "title": "Learning in Everyday Life: The Art and Science of Hacking your Brain"
+    }
+,
+    {
+        "text": "CMNS110",
+        "value": "110",
+        "title": "Introduction to Communication Studies"
+    },
+    {
+        "text": "CMNS120W",
+        "value": "120w",
+        "title": "Creativity and Communication Across Media"
+    },
+    {
+        "text": "CMNS130",
+        "value": "130",
+        "title": "Communication and Social Change"
+    },
+    {
+        "text": "CMNS221",
+        "value": "221",
+        "title": "Media and Popular Cultures"
+    },
+    {
+        "text": "CMNS226",
+        "value": "226",
+        "title": "Digital Media Communication Techniques"
+    },
+    {
+        "text": "CMNS230",
+        "value": "230",
+        "title": "The Cultural Industries in Canada: Global Context"
+    },
+    {
+        "text": "CMNS240",
+        "value": "240",
+        "title": "The Political Economy of Communication"
+    },
+    {
+        "text": "CMNS253W",
+        "value": "253w",
+        "title": "Introduction to Information Technology: The New Media"
+    },
+    {
+        "text": "CMNS304W",
+        "value": "304w",
+        "title": "Communication in Everyday Life"
+    },
+    {
+        "text": "CMNS326",
+        "value": "326",
+        "title": "Applied Media Workshop: On the Hill"
+    },
+    {
+        "text": "CMNS333",
+        "value": "333",
+        "title": "Digital Policies in a Global Context: Current Issues, Concepts and Analysis"
+    },
+    {
+        "text": "CMNS349",
+        "value": "349",
+        "title": "Environment, Media and Communication"
+    },
+    {
+        "text": "CMNS353",
+        "value": "353",
+        "title": "Topics in Technology and Society"
+    },
+    {
+        "text": "CMNS362",
+        "value": "362",
+        "title": "Evaluation Methods for Applied Communication Research"
+    },
+    {
+        "text": "CMNS395",
+        "value": "395",
+        "title": "Communication Practicum I"
+    },
+    {
+        "text": "CMNS396",
+        "value": "396",
+        "title": "Communication Practicum II"
+    },
+    {
+        "text": "CMNS408",
+        "value": "408",
+        "title": "Communication Network Project Group"
+    },
+    {
+        "text": "CMNS428",
+        "value": "428",
+        "title": "Media Analysis Project Group"
+    },
+    {
+        "text": "CMNS432",
+        "value": "432",
+        "title": "Political Communication, Public Opinion and Political Marketing"
+    },
+    {
+        "text": "CMNS437",
+        "value": "437",
+        "title": "Media Democratization: From Critique to Transformation"
+    },
+    {
+        "text": "CMNS445",
+        "value": "445",
+        "title": "Media and Popular Culture in China"
+    },
+    {
+        "text": "CMNS448",
+        "value": "448",
+        "title": "International Communication Project Group"
+    },
+    {
+        "text": "CMNS452",
+        "value": "452",
+        "title": "Race and the Media"
+    },
+    {
+        "text": "CMNS453",
+        "value": "453",
+        "title": "Issues in the Information Society"
+    },
+    {
+        "text": "CMNS455W",
+        "value": "455w",
+        "title": "Women and New Information Technologies"
+    },
+    {
+        "text": "CMNS458",
+        "value": "458",
+        "title": "Information Technology Project Group"
+    },
+    {
+        "text": "CMNS461",
+        "value": "461",
+        "title": "Field Placement in Dialogue"
+    },
+    {
+        "text": "CMNS479",
+        "value": "479",
+        "title": "Directed Study"
+    },
+    {
+        "text": "CMNS480",
+        "value": "480",
+        "title": "Directed Study"
+    },
+    {
+        "text": "CMNS481",
+        "value": "481",
+        "title": "Directed Study"
+    },
+    {
+        "text": "CMNS482",
+        "value": "482",
+        "title": "Directed Study"
+    },
+    {
+        "text": "CMNS483",
+        "value": "483",
+        "title": "Directed Study"
+    },
+    {
+        "text": "CMNS489",
+        "value": "489",
+        "title": "Field Placement in Communication"
+    },
+    {
+        "text": "CMNS494",
+        "value": "494",
+        "title": "Communication Practicum III"
+    },
+    {
+        "text": "CMNS495",
+        "value": "495",
+        "title": "Communication Practicum IV"
+    },
+    {
+        "text": "CMNS496",
+        "value": "496",
+        "title": "Communication Practicum V"
+    },
+    {
+        "text": "CMNS497",
+        "value": "497",
+        "title": "Honours Research Proposal"
+    },
+    {
+        "text": "CMNS498",
+        "value": "498",
+        "title": "Honours Research Project"
+    },
+    {
+        "text": "CMNS850",
+        "value": "850",
+        "title": "Directed Readings and Research"
+    },
+    {
+        "text": "CMNS851",
+        "value": "851",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "CMNS880",
+        "value": "880",
+        "title": "Directed Readings and Research"
+    },
+    {
+        "text": "CMNS881",
+        "value": "881",
+        "title": "Research Practicum"
+    },
+    {
+        "text": "CMNS891",
+        "value": "891",
+        "title": "Co-op I"
+    },
+    {
+        "text": "CMNS892",
+        "value": "892",
+        "title": "Co-op II"
+    },
+    {
+        "text": "CMNS893",
+        "value": "893",
+        "title": "MA Project"
+    },
+    {
+        "text": "CMNS895",
+        "value": "895",
+        "title": "Comprehensive Examination"
+    },
+    {
+        "text": "CMNS896",
+        "value": "896",
+        "title": "MA Extended Essays"
+    },
+    {
+        "text": "CMNS897",
+        "value": "897",
+        "title": "MA Project"
+    },
+    {
+        "text": "CMNS898",
+        "value": "898",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "CMNS899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "CMPT105W",
+        "value": "105w",
+        "title": "Social Issues and Communication Strategies in Computing Science"
+    },
+    {
+        "text": "CMPT120",
+        "value": "120",
+        "title": "Introduction to Computing Science and Programming I"
+    },
+    {
+        "text": "CMPT125",
+        "value": "125",
+        "title": "Introduction to Computing Science and Programming II"
+    },
+    {
+        "text": "CMPT210",
+        "value": "210",
+        "title": "Probability and Computing"
+    },
+    {
+        "text": "CMPT225",
+        "value": "225",
+        "title": "Data Structures and Programming"
+    },
+    {
+        "text": "CMPT276",
+        "value": "276",
+        "title": "Introduction to Software Engineering"
+    },
+    {
+        "text": "CMPT295",
+        "value": "295",
+        "title": "Introduction to Computer Systems"
+    },
+    {
+        "text": "CMPT300",
+        "value": "300",
+        "title": "Operating Systems I"
+    },
+    {
+        "text": "CMPT307",
+        "value": "307",
+        "title": "Data Structures and Algorithms"
+    },
+    {
+        "text": "CMPT310",
+        "value": "310",
+        "title": "Introduction to Artificial Intelligence"
+    },
+    {
+        "text": "CMPT353",
+        "value": "353",
+        "title": "Computational Data Science"
+    },
+    {
+        "text": "CMPT354",
+        "value": "354",
+        "title": "Database Systems I"
+    },
+    {
+        "text": "CMPT361",
+        "value": "361",
+        "title": "Introduction to Computer Graphics"
+    },
+    {
+        "text": "CMPT363",
+        "value": "363",
+        "title": "User Interface Design"
+    },
+    {
+        "text": "CMPT371",
+        "value": "371",
+        "title": "Data Communications and Networking"
+    },
+    {
+        "text": "CMPT372",
+        "value": "372",
+        "title": "Web II - Server-side Development"
+    },
+    {
+        "text": "CMPT376W",
+        "value": "376w",
+        "title": "Professional Responsibility and Technical Writing"
+    },
+    {
+        "text": "CMPT379",
+        "value": "379",
+        "title": "Principles of Compiler Design"
+    },
+    {
+        "text": "CMPT383",
+        "value": "383",
+        "title": "Comparative Programming Languages"
+    },
+    {
+        "text": "CMPT407",
+        "value": "407",
+        "title": "Computational Complexity"
+    },
+    {
+        "text": "CMPT415",
+        "value": "415",
+        "title": "Special Research Projects"
+    },
+    {
+        "text": "CMPT416",
+        "value": "416",
+        "title": "Special Research Projects"
+    },
+    {
+        "text": "CMPT419",
+        "value": "419",
+        "title": "Special Topics in Artificial Intelligence"
+    },
+    {
+        "text": "CMPT426",
+        "value": "426",
+        "title": "Practicum I"
+    },
+    {
+        "text": "CMPT427",
+        "value": "427",
+        "title": "Practicum II"
+    },
+    {
+        "text": "CMPT428",
+        "value": "428",
+        "title": "Practicum III"
+    },
+    {
+        "text": "CMPT429",
+        "value": "429",
+        "title": "Practicum IV"
+    },
+    {
+        "text": "CMPT430",
+        "value": "430",
+        "title": "Practicum V"
+    },
+    {
+        "text": "CMPT454",
+        "value": "454",
+        "title": "Database Systems II"
+    },
+    {
+        "text": "CMPT474",
+        "value": "474",
+        "title": "Web Systems Architecture"
+    },
+    {
+        "text": "CMPT479",
+        "value": "479",
+        "title": "Special Topics in Computing Systems"
+    },
+    {
+        "text": "CMPT494",
+        "value": "494",
+        "title": "Software Systems Program Capstone Project I"
+    },
+    {
+        "text": "CMPT495",
+        "value": "495",
+        "title": "Software Systems Capstone Project II"
+    },
+    {
+        "text": "CMPT496",
+        "value": "496",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "CMPT497",
+        "value": "497",
+        "title": "Dual Degree Program Capstone Project"
+    },
+    {
+        "text": "CMPT498",
+        "value": "498",
+        "title": "Honours Research Project"
+    },
+    {
+        "text": "CMPT626",
+        "value": "626",
+        "title": "Graduate Co-op I"
+    },
+    {
+        "text": "CMPT627",
+        "value": "627",
+        "title": "Graduate Co-op II"
+    },
+    {
+        "text": "CMPT629",
+        "value": "629",
+        "title": "Graduate Project"
+    },
+    {
+        "text": "CMPT631",
+        "value": "631",
+        "title": "Industrial Internship"
+    },
+    {
+        "text": "CMPT710",
+        "value": "710",
+        "title": "Computational Complexity"
+    },
+    {
+        "text": "CMPT729",
+        "value": "729",
+        "title": "Reinforcement Learning"
+    },
+    {
+        "text": "CMPT788",
+        "value": "788",
+        "title": "Information Privacy"
+    },
+    {
+        "text": "CMPT894",
+        "value": "894",
+        "title": "Directed Reading"
+    },
+    {
+        "text": "CMPT895",
+        "value": "895",
+        "title": "Master Program Extended Essay"
+    },
+    {
+        "text": "CMPT896",
+        "value": "896",
+        "title": "MSc Course Option Portfolio"
+    },
+    {
+        "text": "CMPT897",
+        "value": "897",
+        "title": "MSc Project"
+    },
+    {
+        "text": "CMPT898",
+        "value": "898",
+        "title": "MSc Thesis"
+    },
+    {
+        "text": "CMPT899",
+        "value": "899",
+        "title": "PhD Thesis"
+    },
+    {
+        "text": "CMPT983",
+        "value": "983",
+        "title": "Special Topics in Artificial Intelligence"
+    },
+    {
+        "text": "CMPT985",
+        "value": "985",
+        "title": "Special Topics in Graphics, HCI, Visualization, Vision, Multimedia"
+    }
+,
+    {
+        "text": "CHIN100",
+        "value": "100",
+        "title": "Mandarin Chinese I"
+    },
+    {
+        "text": "CHIN110",
+        "value": "110",
+        "title": "Mandarin Chinese II"
+    },
+    {
+        "text": "CHIN330",
+        "value": "330",
+        "title": "Intermediate Chinese for Business I"
+    }
+,
+    {
+        "text": "EASC101",
+        "value": "101",
+        "title": "Dynamic Earth"
+    },
+    {
+        "text": "EASC103",
+        "value": "103",
+        "title": "The Rise and Fall of the Dinosaurs"
+    },
+    {
+        "text": "EASC108",
+        "value": "108",
+        "title": "Exploring the Solar System"
+    },
+    {
+        "text": "EASC306",
+        "value": "306",
+        "title": "Field Geology II"
+    },
+    {
+        "text": "EASC308",
+        "value": "308",
+        "title": "Field Geology III"
+    },
+    {
+        "text": "EASC493",
+        "value": "493",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "EASC711",
+        "value": "711",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "EASC810",
+        "value": "810",
+        "title": "MSc Thesis Proposal"
+    },
+    {
+        "text": "EASC898",
+        "value": "898",
+        "title": "MSc Thesis"
+    },
+    {
+        "text": "EASC910",
+        "value": "910",
+        "title": "PhD Candidacy Examination"
+    },
+    {
+        "text": "EASC998",
+        "value": "998",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "ECO600",
+        "value": "600",
+        "title": "Ecological Restoration"
+    }
+,
+    {
+        "text": "CRIM101",
+        "value": "101",
+        "title": "Introduction to Criminology"
+    },
+    {
+        "text": "CRIM104",
+        "value": "104",
+        "title": "Sociological Explanations of Criminal and Deviant Behavior"
+    },
+    {
+        "text": "CRIM135",
+        "value": "135",
+        "title": "Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective"
+    },
+    {
+        "text": "CRIM230",
+        "value": "230",
+        "title": "Criminal Law"
+    },
+    {
+        "text": "CRIM318",
+        "value": "318",
+        "title": "Special Topics in Criminology"
+    },
+    {
+        "text": "CRIM321",
+        "value": "321",
+        "title": "Qualitative Research Methods in Criminology"
+    },
+    {
+        "text": "CRIM330",
+        "value": "330",
+        "title": "Criminal Procedure and Evidence"
+    },
+    {
+        "text": "CRIM331",
+        "value": "331",
+        "title": "Advanced Criminal Law"
+    },
+    {
+        "text": "CRIM370",
+        "value": "370",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "CRIM380",
+        "value": "380",
+        "title": "Introduction to Cybercrime"
+    },
+    {
+        "text": "CRIM416",
+        "value": "416",
+        "title": "Current Issues in Criminology and Criminal Justice"
+    },
+    {
+        "text": "CRIM470",
+        "value": "470",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "CRIM485",
+        "value": "485",
+        "title": "Professional Development - Criminal Justice Practice"
+    },
+    {
+        "text": "CRIM486",
+        "value": "486",
+        "title": "Field Placement - Agency - Part Time"
+    },
+    {
+        "text": "CRIM487",
+        "value": "487",
+        "title": "Field Placement - Agency - Full Time"
+    },
+    {
+        "text": "CRIM488",
+        "value": "488",
+        "title": "Field Placement - Academic - Part Time"
+    },
+    {
+        "text": "CRIM489",
+        "value": "489",
+        "title": "Field Placement - Academic - Full Time"
+    },
+    {
+        "text": "CRIM864",
+        "value": "864",
+        "title": "Research Methods V: Advanced Qualitative Methods"
+    },
+    {
+        "text": "CRIM870",
+        "value": "870",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "CRIM897",
+        "value": "897",
+        "title": "Comprehensive Exam"
+    },
+    {
+        "text": "CRIM898",
+        "value": "898",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "CRIM899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "ENSC151",
+        "value": "151",
+        "title": "Introduction to Software Development for Engineers"
+    },
+    {
+        "text": "ENSC194",
+        "value": "194",
+        "title": "Optional Job Practicum"
+    },
+    {
+        "text": "ENSC195",
+        "value": "195",
+        "title": "Industrial Internship I"
+    },
+    {
+        "text": "ENSC196",
+        "value": "196",
+        "title": "Special Internship I"
+    },
+    {
+        "text": "ENSC220",
+        "value": "220",
+        "title": "Electric Circuits I"
+    },
+    {
+        "text": "ENSC225",
+        "value": "225",
+        "title": "Microelectronics I"
+    },
+    {
+        "text": "ENSC251",
+        "value": "251",
+        "title": "Software Design and Analysis for Engineers"
+    },
+    {
+        "text": "ENSC252",
+        "value": "252",
+        "title": "Fundamentals of Digital Logic & Design"
+    },
+    {
+        "text": "ENSC254",
+        "value": "254",
+        "title": "Introduction to Computer Organization"
+    },
+    {
+        "text": "ENSC280",
+        "value": "280",
+        "title": "Engineering Measurement and Data Analysis"
+    },
+    {
+        "text": "ENSC295",
+        "value": "295",
+        "title": "Industrial Internship II"
+    },
+    {
+        "text": "ENSC296",
+        "value": "296",
+        "title": "Special Internship II"
+    },
+    {
+        "text": "ENSC320",
+        "value": "320",
+        "title": "Electric Circuits II"
+    },
+    {
+        "text": "ENSC395",
+        "value": "395",
+        "title": "Industrial Internship III"
+    },
+    {
+        "text": "ENSC396",
+        "value": "396",
+        "title": "Special Internship III"
+    },
+    {
+        "text": "ENSC405W",
+        "value": "405w",
+        "title": "Capstone A: Project Design, Management, and Documentation"
+    },
+    {
+        "text": "ENSC406",
+        "value": "406",
+        "title": "Engineering Ethics, Law, and Professional Practice"
+    },
+    {
+        "text": "ENSC425",
+        "value": "425",
+        "title": "Electronic System Design"
+    },
+    {
+        "text": "ENSC426",
+        "value": "426",
+        "title": "High Frequency Electronics"
+    },
+    {
+        "text": "ENSC428",
+        "value": "428",
+        "title": "Digital Communications"
+    },
+    {
+        "text": "ENSC429",
+        "value": "429",
+        "title": "Digital Signal Processing"
+    },
+    {
+        "text": "ENSC440",
+        "value": "440",
+        "title": "Capstone B: Engineering Design Project"
+    },
+    {
+        "text": "ENSC462",
+        "value": "462",
+        "title": "Special Topics in Engineering Science"
+    },
+    {
+        "text": "ENSC470",
+        "value": "470",
+        "title": "Optical and Laser Engineering Applications"
+    },
+    {
+        "text": "ENSC476",
+        "value": "476",
+        "title": "Biophotonics and Microscopy Techniques"
+    },
+    {
+        "text": "ENSC482",
+        "value": "482",
+        "title": "Introduction to Decision Making in Engineering"
+    },
+    {
+        "text": "ENSC491",
+        "value": "491",
+        "title": "Special Project Laboratory"
+    },
+    {
+        "text": "ENSC492",
+        "value": "492",
+        "title": "Special Project Laboratory"
+    },
+    {
+        "text": "ENSC493",
+        "value": "493",
+        "title": "Special Project Laboratory"
+    },
+    {
+        "text": "ENSC494",
+        "value": "494",
+        "title": "Special Project Laboratory"
+    },
+    {
+        "text": "ENSC498",
+        "value": "498",
+        "title": "Engineering Science Thesis Proposal"
+    },
+    {
+        "text": "ENSC499",
+        "value": "499",
+        "title": "Engineering Science Undergraduate Thesis"
+    },
+    {
+        "text": "ENSC704",
+        "value": "704",
+        "title": "Industrial Internship"
+    },
+    {
+        "text": "ENSC820",
+        "value": "820",
+        "title": "Engineering Management for Development Projects"
+    },
+    {
+        "text": "ENSC854",
+        "value": "854",
+        "title": "Integrated Microsensors and Actuators"
+    },
+    {
+        "text": "ENSC870",
+        "value": "870",
+        "title": "MEng Course Option Portfolio"
+    },
+    {
+        "text": "ENSC880",
+        "value": "880",
+        "title": "PhD Qualifying Examination"
+    },
+    {
+        "text": "ENSC891",
+        "value": "891",
+        "title": "Directed Studies I"
+    },
+    {
+        "text": "ENSC892",
+        "value": "892",
+        "title": "Directed Studies II"
+    },
+    {
+        "text": "ENSC894",
+        "value": "894",
+        "title": "Special Topics II"
+    },
+    {
+        "text": "ENSC895",
+        "value": "895",
+        "title": "Special Topics III"
+    },
+    {
+        "text": "ENSC896",
+        "value": "896",
+        "title": "MEng Project (Completion)"
+    },
+    {
+        "text": "ENSC897",
+        "value": "897",
+        "title": "MEng Project"
+    },
+    {
+        "text": "ENSC898",
+        "value": "898",
+        "title": "MASc Thesis"
+    },
+    {
+        "text": "ENSC899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "ECON103",
+        "value": "103",
+        "title": "Principles of Microeconomics"
+    },
+    {
+        "text": "ECON105",
+        "value": "105",
+        "title": "Principles of Macroeconomics"
+    },
+    {
+        "text": "ECON201",
+        "value": "201",
+        "title": "Microeconomic Theory I: Competitive Behavior"
+    },
+    {
+        "text": "ECON220W",
+        "value": "220w",
+        "title": "Communication in Economics"
+    },
+    {
+        "text": "ECON260",
+        "value": "260",
+        "title": "Environmental Economics"
+    },
+    {
+        "text": "ECON302",
+        "value": "302",
+        "title": "Microeconomic Theory II: Strategic Behavior"
+    },
+    {
+        "text": "ECON305",
+        "value": "305",
+        "title": "Intermediate Macroeconomic Theory"
+    },
+    {
+        "text": "ECON310",
+        "value": "310",
+        "title": "Money and Banking"
+    },
+    {
+        "text": "ECON325",
+        "value": "325",
+        "title": "Industrial Organization"
+    },
+    {
+        "text": "ECON333",
+        "value": "333",
+        "title": "Statistical Analysis of Economic Data"
+    },
+    {
+        "text": "ECON342",
+        "value": "342",
+        "title": "International Trade"
+    },
+    {
+        "text": "ECON345",
+        "value": "345",
+        "title": "International Finance"
+    },
+    {
+        "text": "ECON355W",
+        "value": "355w",
+        "title": "Economic Development"
+    },
+    {
+        "text": "ECON381",
+        "value": "381",
+        "title": "Labor Economics"
+    },
+    {
+        "text": "ECON383",
+        "value": "383",
+        "title": "Selected Topics in Economics"
+    },
+    {
+        "text": "ECON410",
+        "value": "410",
+        "title": "Seminar in Monetary Theory"
+    },
+    {
+        "text": "ECON443",
+        "value": "443",
+        "title": "Seminar in International Trade"
+    },
+    {
+        "text": "ECON460",
+        "value": "460",
+        "title": "Seminar in Environmental Economics"
+    },
+    {
+        "text": "ECON480",
+        "value": "480",
+        "title": "Seminar in the Economics of Labor Market Policy"
+    },
+    {
+        "text": "ECON483",
+        "value": "483",
+        "title": "Selected Topics in Economics"
+    },
+    {
+        "text": "ECON750",
+        "value": "750",
+        "title": "Co-op I"
+    },
+    {
+        "text": "ECON751",
+        "value": "751",
+        "title": "Co-op II"
+    },
+    {
+        "text": "ECON752",
+        "value": "752",
+        "title": "Co-op III"
+    },
+    {
+        "text": "ECON855",
+        "value": "855",
+        "title": "Theories of Economic Development"
+    },
+    {
+        "text": "ECON891",
+        "value": "891",
+        "title": "The Economics of Public Choice"
+    },
+    {
+        "text": "ECON899",
+        "value": "899",
+        "title": "MA Research Paper"
+    },
+    {
+        "text": "ECON900",
+        "value": "900",
+        "title": "PhD Field Paper"
+    },
+    {
+        "text": "ECON912",
+        "value": "912",
+        "title": "Selected Topics in Economics"
+    },
+    {
+        "text": "ECON987",
+        "value": "987",
+        "title": "Field Comprehensive Examination"
+    },
+    {
+        "text": "ECON990",
+        "value": "990",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "EVSC100",
+        "value": "100",
+        "title": "Introduction to Environmental Science"
+    },
+    {
+        "text": "EVSC380",
+        "value": "380",
+        "title": "Practicum I"
+    },
+    {
+        "text": "EVSC381",
+        "value": "381",
+        "title": "Practicum II"
+    },
+    {
+        "text": "EVSC480",
+        "value": "480",
+        "title": "Practicum III"
+    },
+    {
+        "text": "EVSC481",
+        "value": "481",
+        "title": "Practicum IV"
+    },
+    {
+        "text": "EVSC482",
+        "value": "482",
+        "title": "Practicum V"
+    },
+    {
+        "text": "EVSC489",
+        "value": "489",
+        "title": "Environmental Science Thesis I"
+    },
+    {
+        "text": "EVSC490W",
+        "value": "490w",
+        "title": "Environmental Science Thesis II"
+    },
+    {
+        "text": "EVSC491",
+        "value": "491",
+        "title": "Directed Study in Environmental Science"
+    }
+,
+    {
+        "text": "DMED522",
+        "value": "522",
+        "title": "Projects III"
+    },
+    {
+        "text": "DMED540",
+        "value": "540",
+        "title": "Special Topics in Digital Media"
+    }
+,
+    {
+        "text": "ENV302",
+        "value": "302",
+        "title": "Environment Practicum I"
+    },
+    {
+        "text": "ENV303",
+        "value": "303",
+        "title": "Environment Practicum II"
+    },
+    {
+        "text": "ENV402",
+        "value": "402",
+        "title": "Environment Practicum III"
+    },
+    {
+        "text": "ENV403",
+        "value": "403",
+        "title": "Environment Practicum IV"
+    },
+    {
+        "text": "ENV404",
+        "value": "404",
+        "title": "Environment Practicum V"
+    }
+,
+    {
+        "text": "ENGL112W",
+        "value": "112w",
+        "title": "Literature Now"
+    },
+    {
+        "text": "ENGL113W",
+        "value": "113w",
+        "title": "Literature and Performance"
+    },
+    {
+        "text": "ENGL114W",
+        "value": "114w",
+        "title": "Language and Purpose"
+    },
+    {
+        "text": "ENGL199W",
+        "value": "199w",
+        "title": "Writing to Persuade"
+    },
+    {
+        "text": "ENGL202",
+        "value": "202",
+        "title": "The Environmental Imagination"
+    },
+    {
+        "text": "ENGL211",
+        "value": "211",
+        "title": "The Place of the Past"
+    },
+    {
+        "text": "ENGL341",
+        "value": "341",
+        "title": "Modern and Contemporary British Literature"
+    },
+    {
+        "text": "ENGL355",
+        "value": "355",
+        "title": "Canadian Literatures"
+    },
+    {
+        "text": "ENGL371",
+        "value": "371",
+        "title": "Writing: Theory and Practice"
+    },
+    {
+        "text": "ENGL383",
+        "value": "383",
+        "title": "Studies in Popular Literature and Culture"
+    },
+    {
+        "text": "ENGL411W",
+        "value": "411w",
+        "title": "Seminar in Literature and Race"
+    },
+    {
+        "text": "ENGL413W",
+        "value": "413w",
+        "title": "Seminar in Literature and Environment"
+    },
+    {
+        "text": "ENGL433W",
+        "value": "433w",
+        "title": "Seminar in British Literatures"
+    },
+    {
+        "text": "ENGL490",
+        "value": "490",
+        "title": "Directed Studies A"
+    },
+    {
+        "text": "ENGL491",
+        "value": "491",
+        "title": "Directed Studies B"
+    },
+    {
+        "text": "ENGL496",
+        "value": "496",
+        "title": "Honors Graduating Essay"
+    },
+    {
+        "text": "ENGL875",
+        "value": "875",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "ENGL881",
+        "value": "881",
+        "title": "Pro-seminar II"
+    },
+    {
+        "text": "ENGL882",
+        "value": "882",
+        "title": "MA Project"
+    },
+    {
+        "text": "ENGL891",
+        "value": "891",
+        "title": "MA Paper/Project"
+    },
+    {
+        "text": "ENGL892",
+        "value": "892",
+        "title": "PhD Field Exam One"
+    },
+    {
+        "text": "ENGL893",
+        "value": "893",
+        "title": "PhD Field Exam Two"
+    },
+    {
+        "text": "ENGL894",
+        "value": "894",
+        "title": "PhD Thesis Prospectus"
+    },
+    {
+        "text": "ENGL899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "EDUC100W",
+        "value": "100w",
+        "title": "Selected Questions and Issues in Education"
+    },
+    {
+        "text": "EDUC199",
+        "value": "199",
+        "title": "Foundations of Personal Agency: Finding Voice and Place in Academia"
+    },
+    {
+        "text": "EDUC220",
+        "value": "220",
+        "title": "Introduction to Educational Psychology"
+    },
+    {
+        "text": "EDUC230",
+        "value": "230",
+        "title": "Introduction to Philosophy of Education"
+    },
+    {
+        "text": "EDUC252",
+        "value": "252",
+        "title": "Introduction to Reflective Practice"
+    },
+    {
+        "text": "EDUC311",
+        "value": "311",
+        "title": "Foundations in Indigenous Education, Language, and Culture"
+    },
+    {
+        "text": "EDUC313",
+        "value": "313",
+        "title": "Numeracy and Society"
+    },
+    {
+        "text": "EDUC315",
+        "value": "315",
+        "title": "Individual and Developmental Differences in Language Acquisition"
+    },
+    {
+        "text": "EDUC322",
+        "value": "322",
+        "title": "The Social Lives of School Children"
+    },
+    {
+        "text": "EDUC323",
+        "value": "323",
+        "title": "Introduction to Counselling Theories"
+    },
+    {
+        "text": "EDUC324",
+        "value": "324",
+        "title": "Foundations of Multicultural Counselling"
+    },
+    {
+        "text": "EDUC325",
+        "value": "325",
+        "title": "Assessment for Classroom Teaching"
+    },
+    {
+        "text": "EDUC326",
+        "value": "326",
+        "title": "Creating Positive Learning Communities"
+    },
+    {
+        "text": "EDUC328",
+        "value": "328",
+        "title": "Career Education and Career Counselling"
+    },
+    {
+        "text": "EDUC330",
+        "value": "330",
+        "title": "Movement Language Elements for Dance in Education"
+    },
+    {
+        "text": "EDUC341",
+        "value": "341",
+        "title": "Literacy, Education and Culture"
+    },
+    {
+        "text": "EDUC352W",
+        "value": "352w",
+        "title": "Building on Reflective Practice"
+    },
+    {
+        "text": "EDUC359",
+        "value": "359",
+        "title": "Introduction to Outdoor Education"
+    },
+    {
+        "text": "EDUC370",
+        "value": "370",
+        "title": "International and Intercultural Education"
+    },
+    {
+        "text": "EDUC371W",
+        "value": "371w",
+        "title": "School Health Education"
+    },
+    {
+        "text": "EDUC375",
+        "value": "375",
+        "title": "Struggle with Mathematics: Sources and Recovery"
+    },
+    {
+        "text": "EDUC376",
+        "value": "376",
+        "title": "Introduction to Educational Leadership"
+    },
+    {
+        "text": "EDUC391",
+        "value": "391",
+        "title": "Special Topics"
+    },
+    {
+        "text": "EDUC404",
+        "value": "404",
+        "title": "Coursework Semester"
+    },
+    {
+        "text": "EDUC411",
+        "value": "411",
+        "title": "Investigations in Mathematics for Secondary Teachers"
+    },
+    {
+        "text": "EDUC412W",
+        "value": "412w",
+        "title": "Designs for Learning: Secondary Language Arts"
+    },
+    {
+        "text": "EDUC414",
+        "value": "414",
+        "title": "Designs for Learning: Secondary Social Studies"
+    },
+    {
+        "text": "EDUC415",
+        "value": "415",
+        "title": "Designs for Learning: Secondary Mathematics"
+    },
+    {
+        "text": "EDUC416",
+        "value": "416",
+        "title": "Designs for Learning: Secondary Science"
+    },
+    {
+        "text": "EDUC422",
+        "value": "422",
+        "title": "Learning Disabilities"
+    },
+    {
+        "text": "EDUC423",
+        "value": "423",
+        "title": "Helping Relationships"
+    },
+    {
+        "text": "EDUC424",
+        "value": "424",
+        "title": "Learning Disabilities: Laboratory"
+    },
+    {
+        "text": "EDUC426",
+        "value": "426",
+        "title": "Teaching Children and Youth with Special Needs"
+    },
+    {
+        "text": "EDUC430",
+        "value": "430",
+        "title": "Designs for Learning: Dance"
+    },
+    {
+        "text": "EDUC437",
+        "value": "437",
+        "title": "Ethical Issues in Education"
+    },
+    {
+        "text": "EDUC448",
+        "value": "448",
+        "title": "Teaching about Justice, Law and Citizenship"
+    },
+    {
+        "text": "EDUC452",
+        "value": "452",
+        "title": "Environmental Education"
+    },
+    {
+        "text": "EDUC454",
+        "value": "454",
+        "title": "Quantitative Approaches to Environmental Education"
+    },
+    {
+        "text": "EDUC457",
+        "value": "457",
+        "title": "Drama and Education"
+    },
+    {
+        "text": "EDUC459",
+        "value": "459",
+        "title": "Instructional Activities in Physical Education"
+    },
+    {
+        "text": "EDUC464",
+        "value": "464",
+        "title": "Early Childhood Education"
+    },
+    {
+        "text": "EDUC465",
+        "value": "465",
+        "title": "Childrens Literature"
+    },
+    {
+        "text": "EDUC466",
+        "value": "466",
+        "title": "Early Childhood Education: Curriculum and Instruction"
+    },
+    {
+        "text": "EDUC467",
+        "value": "467",
+        "title": "Curriculum and Instruction in Teaching English as an Additional Language"
+    },
+    {
+        "text": "EDUC471",
+        "value": "471",
+        "title": "Curriculum Development: Theory and Practice"
+    },
+    {
+        "text": "EDUC472",
+        "value": "472",
+        "title": "Designs for Learning: Elementary Language Arts"
+    },
+    {
+        "text": "EDUC473W",
+        "value": "473w",
+        "title": "Designs for Learning: Reading"
+    },
+    {
+        "text": "EDUC475",
+        "value": "475",
+        "title": "Designs for Learning: Elementary Mathematics"
+    },
+    {
+        "text": "EDUC476",
+        "value": "476",
+        "title": "Designs for Learning: Elementary Science"
+    },
+    {
+        "text": "EDUC477",
+        "value": "477",
+        "title": "Designs for Learning: Art"
+    },
+    {
+        "text": "EDUC480",
+        "value": "480",
+        "title": "Designs for Learning: French as a Second Language"
+    },
+    {
+        "text": "EDUC481",
+        "value": "481",
+        "title": "Designs for Learning: French Immersion Programs and Francophone Schools"
+    },
+    {
+        "text": "EDUC482",
+        "value": "482",
+        "title": "Designs for Learning: Information Technology"
+    },
+    {
+        "text": "EDUC490",
+        "value": "490",
+        "title": "Directed Study"
+    },
+    {
+        "text": "EDUC491",
+        "value": "491",
+        "title": "Directed Study"
+    },
+    {
+        "text": "EDUC702",
+        "value": "702",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "EDUC703",
+        "value": "703",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "EDUC704",
+        "value": "704",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "EDUC705",
+        "value": "705",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "EDUC710",
+        "value": "710",
+        "title": "Special Topics"
+    },
+    {
+        "text": "EDUC711",
+        "value": "711",
+        "title": "Special Topics"
+    },
+    {
+        "text": "EDUC718",
+        "value": "718",
+        "title": "Landscapes of Practitioner Inquiry"
+    },
+    {
+        "text": "EDUC719",
+        "value": "719",
+        "title": "Research Approaches in Educational Leadership"
+    },
+    {
+        "text": "EDUC810",
+        "value": "810",
+        "title": "Methods of Inquiry in Educational Psychology"
+    },
+    {
+        "text": "EDUC811",
+        "value": "811",
+        "title": "Fieldwork I"
+    },
+    {
+        "text": "EDUC817",
+        "value": "817",
+        "title": "Policy Processes"
+    },
+    {
+        "text": "EDUC819",
+        "value": "819",
+        "title": "Studies in Teacher-Student Interaction"
+    },
+    {
+        "text": "EDUC820",
+        "value": "820",
+        "title": "Current Issues in Curriculum and Pedagogy"
+    },
+    {
+        "text": "EDUC822",
+        "value": "822",
+        "title": "Evaluation of Educational Programs"
+    },
+    {
+        "text": "EDUC825",
+        "value": "825",
+        "title": "Second Language Learning and Education"
+    },
+    {
+        "text": "EDUC828",
+        "value": "828",
+        "title": "Instructional Practices for Inclusive Classrooms"
+    },
+    {
+        "text": "EDUC849",
+        "value": "849",
+        "title": "Artists, Society and Arts Education"
+    },
+    {
+        "text": "EDUC856",
+        "value": "856",
+        "title": "Sociocultural Perspectives on Education and Identity"
+    },
+    {
+        "text": "EDUC861",
+        "value": "861",
+        "title": "Study of Learning Environments"
+    },
+    {
+        "text": "EDUC864",
+        "value": "864",
+        "title": "Research Designs in Education"
+    },
+    {
+        "text": "EDUC867",
+        "value": "867",
+        "title": "Advanced Qualitative Research in Education"
+    },
+    {
+        "text": "EDUC871",
+        "value": "871",
+        "title": "Family Counselling"
+    },
+    {
+        "text": "EDUC877",
+        "value": "877",
+        "title": "Contemporary School Counselling"
+    },
+    {
+        "text": "EDUC881",
+        "value": "881",
+        "title": "Project"
+    },
+    {
+        "text": "EDUC883",
+        "value": "883",
+        "title": "MEd Comprehensive Examination"
+    },
+    {
+        "text": "EDUC885",
+        "value": "885",
+        "title": "MEd Extended Essays"
+    },
+    {
+        "text": "EDUC886",
+        "value": "886",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "EDUC888",
+        "value": "888",
+        "title": "MEd Comprehensive Examination"
+    },
+    {
+        "text": "EDUC889",
+        "value": "889",
+        "title": "Educational Leadership Research Project"
+    },
+    {
+        "text": "EDUC891",
+        "value": "891",
+        "title": "Learning Design in Technology-Mediated Environments"
+    },
+    {
+        "text": "EDUC898",
+        "value": "898",
+        "title": "Masters Thesis"
+    },
+    {
+        "text": "EDUC899",
+        "value": "899",
+        "title": "Doctoral Thesis"
+    },
+    {
+        "text": "EDUC904",
+        "value": "904",
+        "title": "Fieldwork III"
+    },
+    {
+        "text": "EDUC910",
+        "value": "910",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "EDUC926",
+        "value": "926",
+        "title": "Ethnographic and Multimodal Approaches to Educational Research"
+    },
+    {
+        "text": "EDUC934",
+        "value": "934",
+        "title": "Learning Design Development Workshop"
+    },
+    {
+        "text": "EDUC950",
+        "value": "950",
+        "title": "Approaches to Educational Research"
+    },
+    {
+        "text": "EDUC983",
+        "value": "983",
+        "title": "Doctoral Comprehensive Examination"
+    },
+    {
+        "text": "EDUC984",
+        "value": "984",
+        "title": "Qualifying Examination"
+    }
+,
+    {
+        "text": "FANX99",
+        "value": "x99",
+        "title": "Foundations of Analytical and Quantitative Reasoning"
+    }
+,
+    {
+        "text": "EDPR504",
+        "value": "504",
+        "title": "Special Topics"
+    },
+    {
+        "text": "EDPR525",
+        "value": "525",
+        "title": "Special Topics"
+    },
+    {
+        "text": "EDPR528",
+        "value": "528",
+        "title": "Special Topics"
+    },
+    {
+        "text": "EDPR533",
+        "value": "533",
+        "title": "Special Topics"
+    },
+    {
+        "text": "EDPR536",
+        "value": "536",
+        "title": "Special Topics"
+    },
+    {
+        "text": "EDPR585",
+        "value": "585",
+        "title": "Advanced Field Studies in Collaborative Inquiry I"
+    },
+    {
+        "text": "EDPR589",
+        "value": "589",
+        "title": "Études de terrain avancées en approche par lenquête collaborative I"
+    },
+    {
+        "text": "EDPR594",
+        "value": "594",
+        "title": "Advanced Field Studies in Collaborative Inquiry II"
+    },
+    {
+        "text": "EDPR595",
+        "value": "595",
+        "title": "Advanced Field Studies in Collaborative Inquiry II"
+    },
+    {
+        "text": "EDPR597",
+        "value": "597",
+        "title": "Études de terrain avancées en approche par lenquête collaborative II"
+    }
+,
+    {
+        "text": "FREN120",
+        "value": "120",
+        "title": "French for Beginners"
+    },
+    {
+        "text": "FREN121",
+        "value": "121",
+        "title": "Introductory French I"
+    },
+    {
+        "text": "FREN221",
+        "value": "221",
+        "title": "French Writing I"
+    },
+    {
+        "text": "FREN222",
+        "value": "222",
+        "title": "French Writing II"
+    },
+    {
+        "text": "FREN275",
+        "value": "275",
+        "title": "French Linguistics Today"
+    },
+    {
+        "text": "FREN300",
+        "value": "300",
+        "title": "Advanced French: Oral Practice"
+    },
+    {
+        "text": "FREN304",
+        "value": "304",
+        "title": "Advanced French Grammar"
+    },
+    {
+        "text": "FREN330",
+        "value": "330",
+        "title": "Francophone World"
+    },
+    {
+        "text": "FREN476",
+        "value": "476",
+        "title": "Interdisciplinary Approaches in French Literature"
+    }
+,
+    {
+        "text": "FALX99",
+        "value": "x99",
+        "title": "Foundations of Academic Literacy"
+    }
+,
+    {
+        "text": "GERM100",
+        "value": "100",
+        "title": "Introductory German I"
+    }
+,
+    {
+        "text": "GA202",
+        "value": "202",
+        "title": "Studies in Asian Cultures"
+    },
+    {
+        "text": "GA302",
+        "value": "302",
+        "title": "Selected Topics in Chinese Studies"
+    }
+,
+    {
+        "text": "GEOG100",
+        "value": "100",
+        "title": "Our World: Introducing Human Geography"
+    },
+    {
+        "text": "GEOG104",
+        "value": "104",
+        "title": "Climate Change, Water, and Society"
+    },
+    {
+        "text": "GEOG255",
+        "value": "255",
+        "title": "Geographical Information Science I"
+    },
+    {
+        "text": "GEOG302",
+        "value": "302",
+        "title": "Geography Practicum I"
+    },
+    {
+        "text": "GEOG303",
+        "value": "303",
+        "title": "Geography Practicum II"
+    },
+    {
+        "text": "GEOG304",
+        "value": "304",
+        "title": "Geography of Wine"
+    },
+    {
+        "text": "GEOG312",
+        "value": "312",
+        "title": "Geography of Natural Hazards"
+    },
+    {
+        "text": "GEOG363",
+        "value": "363",
+        "title": "Urban Planning and Policy"
+    },
+    {
+        "text": "GEOG402",
+        "value": "402",
+        "title": "Geography Practicum III"
+    },
+    {
+        "text": "GEOG403",
+        "value": "403",
+        "title": "Geography Practicum IV"
+    },
+    {
+        "text": "GEOG404",
+        "value": "404",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "GEOG405",
+        "value": "405",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "GEOG409",
+        "value": "409",
+        "title": "Geography Practicum V"
+    },
+    {
+        "text": "GEOG491",
+        "value": "491",
+        "title": "Honours Essay"
+    },
+    {
+        "text": "GEOG671",
+        "value": "671",
+        "title": "Doctoral Qualifying Exams"
+    },
+    {
+        "text": "GEOG677",
+        "value": "677",
+        "title": "Msc Thesis Proposal"
+    },
+    {
+        "text": "GEOG678",
+        "value": "678",
+        "title": "MA Thesis Proposal"
+    },
+    {
+        "text": "GEOG679",
+        "value": "679",
+        "title": "PhD Thesis Proposal"
+    },
+    {
+        "text": "GEOG691",
+        "value": "691",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "GEOG697",
+        "value": "697",
+        "title": "MSc Thesis"
+    },
+    {
+        "text": "GEOG698",
+        "value": "698",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "GEOG699",
+        "value": "699",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "FEP200",
+        "value": "200",
+        "title": "Exchange Study I - Not included in GPA"
+    },
+    {
+        "text": "FEP201",
+        "value": "201",
+        "title": "Exchange Study - No GPA"
+    },
+    {
+        "text": "FEP202",
+        "value": "202",
+        "title": "Exchange Study - No GPA"
+    },
+    {
+        "text": "FEP203",
+        "value": "203",
+        "title": "Exchange Study - Not included in GPA"
+    },
+    {
+        "text": "FEP204",
+        "value": "204",
+        "title": "Exchange Study Summer - No GPA"
+    },
+    {
+        "text": "FEP205",
+        "value": "205",
+        "title": "Exchange Study I - Not Included in GPA"
+    },
+    {
+        "text": "FEP206",
+        "value": "206",
+        "title": "Exchange Study I - No GPA"
+    },
+    {
+        "text": "FEP209",
+        "value": "209",
+        "title": "Exchange Study - No GPA"
+    },
+    {
+        "text": "FEP221",
+        "value": "221",
+        "title": "FEP Formal Exchange Program - Not Included in GPA"
+    },
+    {
+        "text": "FEP222",
+        "value": "222",
+        "title": "FEP Formal Exchange Program - Not Included in GPA"
+    },
+    {
+        "text": "FEP224",
+        "value": "224",
+        "title": "FEP Formal Exchange Program - Not Included in GPA"
+    }
+,
+    {
+        "text": "FASS200",
+        "value": "200",
+        "title": "STT-Writing Right: Strategies for Effective Revision"
+    },
+    {
+        "text": "FASS201",
+        "value": "201",
+        "title": "FASS Co-op Practicum I"
+    },
+    {
+        "text": "FASS204",
+        "value": "204",
+        "title": "STT-Communicating in Conflict and Negotiation: An Introduction to the Essential Skills"
+    },
+    {
+        "text": "FASS205",
+        "value": "205",
+        "title": "STT-Finding Voice: Public Speaking for Social Change"
+    },
+    {
+        "text": "FASS206",
+        "value": "206",
+        "title": "STT-Creating Effective Teams"
+    },
+    {
+        "text": "FASS207",
+        "value": "207",
+        "title": "STT-Cultural Humility: Understanding Diversity, Equity, and Inclusion"
+    },
+    {
+        "text": "FASS208",
+        "value": "208",
+        "title": "STT-Introduction to Personal Financial Planning for Students"
+    },
+    {
+        "text": "FASS210",
+        "value": "210",
+        "title": "STT-Exploring Language with the Power of Network Science"
+    },
+    {
+        "text": "FASS211",
+        "value": "211",
+        "title": "STT-Data Literacy and the City"
+    },
+    {
+        "text": "FASS212",
+        "value": "212",
+        "title": "STT-An Introduction to Social Work Practice: Change Agency"
+    },
+    {
+        "text": "FASS214",
+        "value": "214",
+        "title": "STT-Walk in My Shoes: Exploring Equity, Diversity, and Inclusion (EDI) Through Life Narrative"
+    },
+    {
+        "text": "FASS301",
+        "value": "301",
+        "title": "FASS Co-op Practicum II"
+    },
+    {
+        "text": "FASS302",
+        "value": "302",
+        "title": "FASS Co-op Practicum III"
+    },
+    {
+        "text": "FASS401",
+        "value": "401",
+        "title": "FASS Co-op Practicum IV"
+    },
+    {
+        "text": "FASS402",
+        "value": "402",
+        "title": "FASS Co-op Practicum V"
+    }
+,
+    {
+        "text": "GSWS101",
+        "value": "101",
+        "title": "Gender Talk"
+    },
+    {
+        "text": "GSWS205",
+        "value": "205",
+        "title": "Gender and Popular Culture"
+    },
+    {
+        "text": "GSWS318",
+        "value": "318",
+        "title": "Special Topics in Gender, Sexuality, and Womens Studies"
+    },
+    {
+        "text": "GSWS320",
+        "value": "320",
+        "title": "Special Topics in Gender, Sexuality, and Womens Studies"
+    },
+    {
+        "text": "GSWS331",
+        "value": "331",
+        "title": "Queer Genders"
+    },
+    {
+        "text": "GSWS333",
+        "value": "333",
+        "title": "Current Issues in Gender, Sexuality, and Womens Studies"
+    },
+    {
+        "text": "GSWS398W",
+        "value": "398w",
+        "title": "Feminist Currents"
+    },
+    {
+        "text": "GSWS399",
+        "value": "399",
+        "title": "Gender, Sex and Numbers"
+    },
+    {
+        "text": "GSWS401",
+        "value": "401",
+        "title": "Research Project"
+    },
+    {
+        "text": "GSWS402",
+        "value": "402",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "GSWS403",
+        "value": "403",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "GSWS411",
+        "value": "411",
+        "title": "Special Topics in Gender, Sexuality, and Womens Studies"
+    },
+    {
+        "text": "GSWS830",
+        "value": "830",
+        "title": "Selected Topics Graduate Seminar I"
+    },
+    {
+        "text": "GSWS831",
+        "value": "831",
+        "title": "Selected Topics Graduate Seminar II"
+    },
+    {
+        "text": "GSWS840",
+        "value": "840",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "GSWS844",
+        "value": "844",
+        "title": "Directed Studies II"
+    },
+    {
+        "text": "GSWS898",
+        "value": "898",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "GSWS997",
+        "value": "997",
+        "title": "PhD Comprehensive Examination"
+    },
+    {
+        "text": "GSWS998",
+        "value": "998",
+        "title": "PhD Thesis"
+    },
+    {
+        "text": "GSWS999",
+        "value": "999",
+        "title": "MA Field Exam"
+    }
+,
+    {
+        "text": "GRAD700",
+        "value": "700",
+        "title": "CoPhD Research - Semester away"
+    },
+    {
+        "text": "GRAD800",
+        "value": "800",
+        "title": "Visiting Graduate Research"
+    },
+    {
+        "text": "GRAD850",
+        "value": "850",
+        "title": "Dual Degree Enrollment"
+    }
+,
+    {
+        "text": "HUM101W",
+        "value": "101w",
+        "title": "Introduction to the Humanities"
+    },
+    {
+        "text": "HUM102W",
+        "value": "102w",
+        "title": "Classical Mythology"
+    },
+    {
+        "text": "HUM130",
+        "value": "130",
+        "title": "Introduction to Religious Studies"
+    },
+    {
+        "text": "HUM226",
+        "value": "226",
+        "title": "War and Society"
+    },
+    {
+        "text": "HUM240",
+        "value": "240",
+        "title": "Studies in Modern Culture"
+    },
+    {
+        "text": "HUM277",
+        "value": "277",
+        "title": "History of Greek Civilization"
+    },
+    {
+        "text": "HUM340",
+        "value": "340",
+        "title": "Great Cities in Their Time"
+    },
+    {
+        "text": "HUM350",
+        "value": "350",
+        "title": "Special Topics: Great Figures in the Humanistic Tradition"
+    },
+    {
+        "text": "HUM360",
+        "value": "360",
+        "title": "Special Topics: Great Themes in the Humanistic Tradition"
+    },
+    {
+        "text": "HUM382",
+        "value": "382",
+        "title": "Selected Topics in Asian Art and Cultures"
+    },
+    {
+        "text": "HUM803",
+        "value": "803",
+        "title": "MA Thesis"
+    }
+,
+    {
+        "text": "IS101",
+        "value": "101",
+        "title": "Global Challenges of the 21st Century: An Introduction to International Studies"
+    },
+    {
+        "text": "IS302",
+        "value": "302",
+        "title": "Humanitarian Intervention: An Introduction"
+    },
+    {
+        "text": "IS306",
+        "value": "306",
+        "title": "State Failure and Reconstruction"
+    },
+    {
+        "text": "IS307",
+        "value": "307",
+        "title": "International Ethics: Poverty, Environmental Change, & War"
+    },
+    {
+        "text": "IS310",
+        "value": "310",
+        "title": "Gender and Security"
+    },
+    {
+        "text": "IS313W",
+        "value": "313w",
+        "title": "Nationalism, Democracy and Development in Modern India"
+    },
+    {
+        "text": "IS314",
+        "value": "314",
+        "title": "National, Regional, and International Politics in Southeast Asia"
+    },
+    {
+        "text": "IS355",
+        "value": "355",
+        "title": "Refugees and Forced Migration"
+    },
+    {
+        "text": "IS358",
+        "value": "358",
+        "title": "Development, Aid and Difference in Historical Perspective"
+    },
+    {
+        "text": "IS373",
+        "value": "373",
+        "title": "Global Environmental Politics"
+    },
+    {
+        "text": "IS428",
+        "value": "428",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "IS444",
+        "value": "444",
+        "title": "Inside Diplomacy: A Practitioners Perspective"
+    },
+    {
+        "text": "IS490",
+        "value": "490",
+        "title": "Honours Seminar"
+    },
+    {
+        "text": "IS497",
+        "value": "497",
+        "title": "Field Practice"
+    },
+    {
+        "text": "IS499",
+        "value": "499",
+        "title": "Honours Essay"
+    },
+    {
+        "text": "IS808",
+        "value": "808",
+        "title": "Special Topics in Governance and Conflict"
+    },
+    {
+        "text": "IS820",
+        "value": "820",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "IS880",
+        "value": "880",
+        "title": "MA Extended Essays"
+    },
+    {
+        "text": "IS886",
+        "value": "886",
+        "title": "Thesis Prospectus"
+    },
+    {
+        "text": "IS898",
+        "value": "898",
+        "title": "MA Thesis"
+    }
+,
+    {
+        "text": "GERO300",
+        "value": "300",
+        "title": "Introduction to Gerontology"
+    },
+    {
+        "text": "GERO410",
+        "value": "410",
+        "title": "Special Topics in Gerontology I"
+    },
+    {
+        "text": "GERO411",
+        "value": "411",
+        "title": "Special Topics in Gerontology II"
+    },
+    {
+        "text": "GERO850",
+        "value": "850",
+        "title": "MA Practicum"
+    },
+    {
+        "text": "GERO889",
+        "value": "889",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "GERO896",
+        "value": "896",
+        "title": "Project Proposal"
+    },
+    {
+        "text": "GERO897",
+        "value": "897",
+        "title": "Thesis Proposal"
+    },
+    {
+        "text": "GERO898",
+        "value": "898",
+        "title": "MA Project"
+    },
+    {
+        "text": "GERO899",
+        "value": "899",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "GERO994",
+        "value": "994",
+        "title": "Comprehensive Examination I"
+    },
+    {
+        "text": "GERO995",
+        "value": "995",
+        "title": "Comprehensive Examination II"
+    },
+    {
+        "text": "GERO996",
+        "value": "996",
+        "title": "Thesis Proposal"
+    },
+    {
+        "text": "GERO998",
+        "value": "998",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "IAT100",
+        "value": "100",
+        "title": "Digital Image Design"
+    },
+    {
+        "text": "IAT102",
+        "value": "102",
+        "title": "Graphic Design"
+    },
+    {
+        "text": "IAT103W",
+        "value": "103w",
+        "title": "Design Communication and Collaboration"
+    },
+    {
+        "text": "IAT106",
+        "value": "106",
+        "title": "Spatial Thinking and Communicating"
+    },
+    {
+        "text": "IAT110",
+        "value": "110",
+        "title": "Visual Communication Design"
+    },
+    {
+        "text": "IAT167",
+        "value": "167",
+        "title": "Digital Games: Genre, Structure, Programming and Play"
+    },
+    {
+        "text": "IAT202",
+        "value": "202",
+        "title": "New Media Images"
+    },
+    {
+        "text": "IAT206W",
+        "value": "206w",
+        "title": "Media Across Cultures"
+    },
+    {
+        "text": "IAT210",
+        "value": "210",
+        "title": "Introduction to Game Studies: Theory and Design"
+    },
+    {
+        "text": "IAT222",
+        "value": "222",
+        "title": "Interactive Arts"
+    },
+    {
+        "text": "IAT235",
+        "value": "235",
+        "title": "Information Design"
+    },
+    {
+        "text": "IAT265",
+        "value": "265",
+        "title": "Multimedia Programming for Art and Design"
+    },
+    {
+        "text": "IAT267",
+        "value": "267",
+        "title": "Introduction to Technological Systems"
+    },
+    {
+        "text": "IAT271",
+        "value": "271",
+        "title": "Co-op Practicum I"
+    },
+    {
+        "text": "IAT272",
+        "value": "272",
+        "title": "Co-op Practicum II"
+    },
+    {
+        "text": "IAT309W",
+        "value": "309w",
+        "title": "Writing Methods for Research"
+    },
+    {
+        "text": "IAT313",
+        "value": "313",
+        "title": "Narrative and New Media"
+    },
+    {
+        "text": "IAT333",
+        "value": "333",
+        "title": "Interaction Design Methods"
+    },
+    {
+        "text": "IAT334",
+        "value": "334",
+        "title": "Interface Design"
+    },
+    {
+        "text": "IAT336",
+        "value": "336",
+        "title": "Materials in Design"
+    },
+    {
+        "text": "IAT339",
+        "value": "339",
+        "title": "Web Design and Development"
+    },
+    {
+        "text": "IAT343",
+        "value": "343",
+        "title": "Animation"
+    },
+    {
+        "text": "IAT351",
+        "value": "351",
+        "title": "Advanced Human-Computer Interaction"
+    },
+    {
+        "text": "IAT373",
+        "value": "373",
+        "title": "Co-op Practicum III"
+    },
+    {
+        "text": "IAT374",
+        "value": "374",
+        "title": "Co-op Practicum IV"
+    },
+    {
+        "text": "IAT375",
+        "value": "375",
+        "title": "Co-op Practicum V"
+    },
+    {
+        "text": "IAT386",
+        "value": "386",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "IAT387",
+        "value": "387",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "IAT410",
+        "value": "410",
+        "title": "Advanced Game Design"
+    },
+    {
+        "text": "IAT431",
+        "value": "431",
+        "title": "Speculative Design"
+    },
+    {
+        "text": "IAT486",
+        "value": "486",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "IAT487",
+        "value": "487",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "IAT490",
+        "value": "490",
+        "title": "Honours Project I"
+    },
+    {
+        "text": "IAT491",
+        "value": "491",
+        "title": "Honours Project II"
+    },
+    {
+        "text": "IAT871",
+        "value": "871",
+        "title": "Directed Readings I"
+    },
+    {
+        "text": "IAT888",
+        "value": "888",
+        "title": "Special Topics VIII"
+    },
+    {
+        "text": "IAT890",
+        "value": "890",
+        "title": "PhD Comprehensive Exam"
+    },
+    {
+        "text": "IAT897",
+        "value": "897",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "IAT898",
+        "value": "898",
+        "title": "MSc Thesis"
+    },
+    {
+        "text": "IAT899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "LBST100",
+        "value": "100",
+        "title": "Equality and Inequality at Work"
+    },
+    {
+        "text": "LBST101",
+        "value": "101",
+        "title": "Work and Workers Rights: Introducing Labour Studies"
+    },
+    {
+        "text": "LBST301W",
+        "value": "301w",
+        "title": "Labour Movements: Issues, Images and Popular Culture"
+    },
+    {
+        "text": "LBST330",
+        "value": "330",
+        "title": "Selected Topics in Labour Studies"
+    }
+,
+    {
+        "text": "HIST102W",
+        "value": "102w",
+        "title": "Canada since Confederation"
+    },
+    {
+        "text": "HIST204",
+        "value": "204",
+        "title": "The Social History of Canada"
+    },
+    {
+        "text": "HIST236",
+        "value": "236",
+        "title": "Japan from 1603 to 1867: Peasants, Merchants, Warriors"
+    },
+    {
+        "text": "HIST252",
+        "value": "252",
+        "title": "Islamic India"
+    },
+    {
+        "text": "HIST330W",
+        "value": "330w",
+        "title": "Controversies in Canadian History"
+    },
+    {
+        "text": "HIST334",
+        "value": "334",
+        "title": "The Making of Imperial Russia"
+    },
+    {
+        "text": "HIST338",
+        "value": "338",
+        "title": "World War II"
+    },
+    {
+        "text": "HIST358",
+        "value": "358",
+        "title": "Development, Aid and Difference in Historical Perspective"
+    },
+    {
+        "text": "HIST371",
+        "value": "371",
+        "title": "The Asia-Pacific War in Modern Japanese History"
+    },
+    {
+        "text": "HIST428",
+        "value": "428",
+        "title": "Problems in the Social and Economic History of Canada"
+    },
+    {
+        "text": "HIST451",
+        "value": "451",
+        "title": "Oral History: Theories and Practices"
+    },
+    {
+        "text": "HIST468W",
+        "value": "468w",
+        "title": "Problems in the History of Religion"
+    },
+    {
+        "text": "HIST472W",
+        "value": "472w",
+        "title": "Problems in World History"
+    },
+    {
+        "text": "HIST485",
+        "value": "485",
+        "title": "Studies in History I"
+    },
+    {
+        "text": "HIST486",
+        "value": "486",
+        "title": "Studies in History II"
+    },
+    {
+        "text": "HIST489",
+        "value": "489",
+        "title": "Studies in History"
+    },
+    {
+        "text": "HIST860",
+        "value": "860",
+        "title": "Comprehensive Field 1"
+    },
+    {
+        "text": "HIST861",
+        "value": "861",
+        "title": "Comprehensive Field 2"
+    },
+    {
+        "text": "HIST862",
+        "value": "862",
+        "title": "Comprehensive Field 3"
+    },
+    {
+        "text": "HIST898",
+        "value": "898",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "HIST899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "JAPN100",
+        "value": "100",
+        "title": "Japanese I"
+    },
+    {
+        "text": "JAPN110",
+        "value": "110",
+        "title": "Japanese II"
+    },
+    {
+        "text": "JAPN200",
+        "value": "200",
+        "title": "Japanese III"
+    }
+,
+    {
+        "text": "INDG101",
+        "value": "101",
+        "title": "Introduction to Indigenous Studies"
+    },
+    {
+        "text": "INDG201W",
+        "value": "201w",
+        "title": "Indigenous Peoples Perspectives on History"
+    },
+    {
+        "text": "INDG305",
+        "value": "305",
+        "title": "Treaties in Canada"
+    },
+    {
+        "text": "INDG310",
+        "value": "310",
+        "title": "Indigenous Film"
+    },
+    {
+        "text": "INDG332",
+        "value": "332",
+        "title": "Indigenous Ethnobotany"
+    },
+    {
+        "text": "INDG442",
+        "value": "442",
+        "title": "Directed Readings in Indigenous Studies"
+    },
+    {
+        "text": "INDG447",
+        "value": "447",
+        "title": "Directed Studies in Indigenous Studies"
+    }
+,
+    {
+        "text": "INLG130",
+        "value": "130",
+        "title": "Practical Phonetics for Indigenous Languages"
+    },
+    {
+        "text": "INLG133",
+        "value": "133",
+        "title": "Introduction to Indigenous Language I"
+    },
+    {
+        "text": "INLG134",
+        "value": "134",
+        "title": "Introduction to INLG II"
+    },
+    {
+        "text": "INLG158",
+        "value": "158",
+        "title": "Indigenous Language Immersion I"
+    },
+    {
+        "text": "INLG233",
+        "value": "233",
+        "title": "Description and Analysis of an Indigenous Language I"
+    },
+    {
+        "text": "INLG234",
+        "value": "234",
+        "title": "Description and Analysis of an Indigenous Language II"
+    },
+    {
+        "text": "INLG335",
+        "value": "335",
+        "title": "Topics in Indigenous Language I"
+    },
+    {
+        "text": "INLG433",
+        "value": "433",
+        "title": "Indigenous Language Mentoring I"
+    },
+    {
+        "text": "INLG434",
+        "value": "434",
+        "title": "Indigenous Language Mentoring II"
+    },
+    {
+        "text": "INLG435",
+        "value": "435",
+        "title": "Topics in Indigenous Language II"
+    },
+    {
+        "text": "INLG458",
+        "value": "458",
+        "title": "Indigenous Language Immersion IV"
+    }
+,
+    {
+        "text": "HSCI100",
+        "value": "100",
+        "title": "Human Biology"
+    },
+    {
+        "text": "HSCI130",
+        "value": "130",
+        "title": "Foundations of Health Science"
+    },
+    {
+        "text": "HSCI160",
+        "value": "160",
+        "title": "Global Perspectives on Health"
+    },
+    {
+        "text": "HSCI214",
+        "value": "214",
+        "title": "Perspectives on Mental Health and Illness"
+    },
+    {
+        "text": "HSCI216",
+        "value": "216",
+        "title": "Ecological Determinants of Human Growth, Development and Health"
+    },
+    {
+        "text": "HSCI230",
+        "value": "230",
+        "title": "Evaluating Epidemiological Research"
+    },
+    {
+        "text": "HSCI305",
+        "value": "305",
+        "title": "The Canadian Health System"
+    },
+    {
+        "text": "HSCI308",
+        "value": "308",
+        "title": "Sickness and Wealth: Health in Global Perspective"
+    },
+    {
+        "text": "HSCI326",
+        "value": "326",
+        "title": "Introduction to the Immune System"
+    },
+    {
+        "text": "HSCI350",
+        "value": "350",
+        "title": "Co-op Practicum I"
+    },
+    {
+        "text": "HSCI351",
+        "value": "351",
+        "title": "Co-op Practicum II"
+    },
+    {
+        "text": "HSCI412",
+        "value": "412",
+        "title": "Health  Communication"
+    },
+    {
+        "text": "HSCI450",
+        "value": "450",
+        "title": "Co-op Practicum III"
+    },
+    {
+        "text": "HSCI451",
+        "value": "451",
+        "title": "Co-op Practicum IV"
+    },
+    {
+        "text": "HSCI452",
+        "value": "452",
+        "title": "Co-op Practicum V"
+    },
+    {
+        "text": "HSCI471",
+        "value": "471",
+        "title": "Special Topics in Health Sciences I"
+    },
+    {
+        "text": "HSCI475",
+        "value": "475",
+        "title": "Seminar in Molecular Mechanisms of Epigenetics"
+    },
+    {
+        "text": "HSCI481",
+        "value": "481",
+        "title": "Senior Seminar in Social Health Science"
+    },
+    {
+        "text": "HSCI483",
+        "value": "483",
+        "title": "Senior Seminar in Environmental Health"
+    },
+    {
+        "text": "HSCI486",
+        "value": "486",
+        "title": "Senior Seminar in Global Health"
+    },
+    {
+        "text": "HSCI488",
+        "value": "488",
+        "title": "Directed Studies in Health Sciences"
+    },
+    {
+        "text": "HSCI489",
+        "value": "489",
+        "title": "Directed Research in Health Sciences"
+    },
+    {
+        "text": "HSCI490",
+        "value": "490",
+        "title": "Research Proposal"
+    },
+    {
+        "text": "HSCI491",
+        "value": "491",
+        "title": "Independent Research"
+    },
+    {
+        "text": "HSCI492",
+        "value": "492",
+        "title": "Honours Research Thesis"
+    },
+    {
+        "text": "HSCI493",
+        "value": "493",
+        "title": "Extended Independent Research"
+    },
+    {
+        "text": "HSCI494",
+        "value": "494",
+        "title": "Independent Laboratory Research"
+    },
+    {
+        "text": "HSCI775",
+        "value": "775",
+        "title": "Seminar in Molecular Mechanisms of Epigenetics"
+    },
+    {
+        "text": "HSCI880",
+        "value": "880",
+        "title": "Practicum"
+    },
+    {
+        "text": "HSCI886",
+        "value": "886",
+        "title": "MSc Thesis Proposal"
+    },
+    {
+        "text": "HSCI887",
+        "value": "887",
+        "title": "MSc Thesis"
+    },
+    {
+        "text": "HSCI893",
+        "value": "893",
+        "title": "Directed Studies in Health Sciences"
+    },
+    {
+        "text": "HSCI897",
+        "value": "897",
+        "title": "MPH Project"
+    },
+    {
+        "text": "HSCI898",
+        "value": "898",
+        "title": "MPH Thesis"
+    },
+    {
+        "text": "HSCI983",
+        "value": "983",
+        "title": "Comprehensive Exam and Thesis Proposal"
+    },
+    {
+        "text": "HSCI990",
+        "value": "990",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "INS887",
+        "value": "887",
+        "title": "Practicum"
+    },
+    {
+        "text": "INS888",
+        "value": "888",
+        "title": "Internship"
+    },
+    {
+        "text": "INS890",
+        "value": "890",
+        "title": "Comprehensive Exam"
+    },
+    {
+        "text": "INS891",
+        "value": "891",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "INS892",
+        "value": "892",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "INS893",
+        "value": "893",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "INS894",
+        "value": "894",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "INS895",
+        "value": "895",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "INS896",
+        "value": "896",
+        "title": "Special Topics"
+    },
+    {
+        "text": "INS897",
+        "value": "897",
+        "title": "Presidents Dream Colloquium"
+    },
+    {
+        "text": "INS898",
+        "value": "898",
+        "title": "Masters Thesis"
+    },
+    {
+        "text": "INS899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "MACM101",
+        "value": "101",
+        "title": "Discrete Mathematics I"
+    },
+    {
+        "text": "MACM316",
+        "value": "316",
+        "title": "Numerical Analysis I"
+    }
+,
+    {
+        "text": "LING100",
+        "value": "100",
+        "title": "Communication and Language"
+    },
+    {
+        "text": "LING160",
+        "value": "160",
+        "title": "Language, Culture and Society"
+    },
+    {
+        "text": "LING220",
+        "value": "220",
+        "title": "Introduction to Linguistics"
+    },
+    {
+        "text": "LING280",
+        "value": "280",
+        "title": "Linguistics in the Real World"
+    },
+    {
+        "text": "LING282W",
+        "value": "282w",
+        "title": "Writing for Linguistics"
+    },
+    {
+        "text": "LING309W",
+        "value": "309w",
+        "title": "Sociolinguistics"
+    },
+    {
+        "text": "LING322",
+        "value": "322",
+        "title": "Syntax"
+    },
+    {
+        "text": "LING330",
+        "value": "330",
+        "title": "Phonetics"
+    },
+    {
+        "text": "LING360",
+        "value": "360",
+        "title": "Introduction to Applied Linguistics"
+    },
+    {
+        "text": "LING362",
+        "value": "362",
+        "title": "Introduction to Teaching English as a Second Language to Adults"
+    },
+    {
+        "text": "LING400",
+        "value": "400",
+        "title": "Formal Linguistics"
+    },
+    {
+        "text": "LING804",
+        "value": "804",
+        "title": "Field Methods"
+    },
+    {
+        "text": "LING810",
+        "value": "810",
+        "title": "Topics in Linguistics I"
+    },
+    {
+        "text": "LING820",
+        "value": "820",
+        "title": "Formal Linguistics"
+    },
+    {
+        "text": "LING830",
+        "value": "830",
+        "title": "Phonetics and Phonology of an Indigenous Language"
+    },
+    {
+        "text": "LING831",
+        "value": "831",
+        "title": "Morphology and Syntax of an Indigenous Language"
+    },
+    {
+        "text": "LING834",
+        "value": "834",
+        "title": "Effective Pedagogies and Materials Development for Indigenous Language"
+    },
+    {
+        "text": "LING890",
+        "value": "890",
+        "title": "Graduate Seminar I"
+    },
+    {
+        "text": "LING891",
+        "value": "891",
+        "title": "Graduate Seminar II"
+    },
+    {
+        "text": "LING893",
+        "value": "893",
+        "title": "Linguistics MA Project"
+    },
+    {
+        "text": "LING894",
+        "value": "894",
+        "title": "Qualifying Paper I"
+    },
+    {
+        "text": "LING898",
+        "value": "898",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "LING899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "LBRL750",
+        "value": "750",
+        "title": "Co-op I"
+    },
+    {
+        "text": "LBRL751",
+        "value": "751",
+        "title": "Co-op II"
+    },
+    {
+        "text": "LBRL752",
+        "value": "752",
+        "title": "Co-op III"
+    }
+,
+    {
+        "text": "MBB110",
+        "value": "110",
+        "title": "Data Analysis for Molecular Biology and Biochemistry"
+    },
+    {
+        "text": "MBB151",
+        "value": "151",
+        "title": "Practicum I"
+    },
+    {
+        "text": "MBB201",
+        "value": "201",
+        "title": "Biochemistry of the Cell"
+    },
+    {
+        "text": "MBB222",
+        "value": "222",
+        "title": "Molecular Biology and Biochemistry"
+    },
+    {
+        "text": "MBB229",
+        "value": "229",
+        "title": "Introductory Molecular Biology and Biochemistry Laboratory"
+    },
+    {
+        "text": "MBB231",
+        "value": "231",
+        "title": "Cellular Biology and Biochemistry"
+    },
+    {
+        "text": "MBB251",
+        "value": "251",
+        "title": "Practicum II"
+    },
+    {
+        "text": "MBB308",
+        "value": "308",
+        "title": "Molecular Biology Laboratory"
+    },
+    {
+        "text": "MBB326",
+        "value": "326",
+        "title": "Introduction to the Immune System"
+    },
+    {
+        "text": "MBB331",
+        "value": "331",
+        "title": "Molecular Biology"
+    },
+    {
+        "text": "MBB351",
+        "value": "351",
+        "title": "Practicum III"
+    },
+    {
+        "text": "MBB431",
+        "value": "431",
+        "title": "Cells and the Environment"
+    },
+    {
+        "text": "MBB451",
+        "value": "451",
+        "title": "Practicum IV"
+    },
+    {
+        "text": "MBB452",
+        "value": "452",
+        "title": "Practicum V"
+    },
+    {
+        "text": "MBB462",
+        "value": "462",
+        "title": "Human Genomics"
+    },
+    {
+        "text": "MBB463",
+        "value": "463",
+        "title": "Forensic Genomics"
+    },
+    {
+        "text": "MBB471",
+        "value": "471",
+        "title": "Undergraduate Colloquium"
+    },
+    {
+        "text": "MBB481",
+        "value": "481",
+        "title": "Directed Research - Honours Thesis"
+    },
+    {
+        "text": "MBB482",
+        "value": "482",
+        "title": "Directed Research - Honours Research Performance"
+    },
+    {
+        "text": "MBB483",
+        "value": "483",
+        "title": "Directed Research - Honours Thesis Defense"
+    },
+    {
+        "text": "MBB490",
+        "value": "490",
+        "title": "Directed Readings in Molecular Biology and Biochemistry"
+    },
+    {
+        "text": "MBB491",
+        "value": "491",
+        "title": "Directed Research I"
+    },
+    {
+        "text": "MBB492",
+        "value": "492",
+        "title": "Directed Research II"
+    },
+    {
+        "text": "MBB496",
+        "value": "496",
+        "title": "Directed Research for MBB-BUS and MBB-CS Joint Honours"
+    },
+    {
+        "text": "MBB498",
+        "value": "498",
+        "title": "Directed Research"
+    },
+    {
+        "text": "MBB762",
+        "value": "762",
+        "title": "Human Genomics"
+    },
+    {
+        "text": "MBB806",
+        "value": "806",
+        "title": "PhD Graduate Research Candidacy Examination"
+    },
+    {
+        "text": "MBB839",
+        "value": "839",
+        "title": "Special Topics in Molecular Biology"
+    },
+    {
+        "text": "MBB861",
+        "value": "861",
+        "title": "Biomolecular Structure and Function Colloquium"
+    },
+    {
+        "text": "MBB871",
+        "value": "871",
+        "title": "Directed Readings in Molecular Biology and Biochemistry"
+    },
+    {
+        "text": "MBB872",
+        "value": "872",
+        "title": "Directed Readings in Molecular Biology and Biochemistry"
+    },
+    {
+        "text": "MBB873",
+        "value": "873",
+        "title": "Directed Readings in Molecular Biology and Biochemistry"
+    },
+    {
+        "text": "MBB898",
+        "value": "898",
+        "title": "MSc Thesis"
+    },
+    {
+        "text": "MBB899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "LS829",
+        "value": "829",
+        "title": "Directed Study"
+    },
+    {
+        "text": "LS998",
+        "value": "998",
+        "title": "MA Extended Essays"
+    },
+    {
+        "text": "LS999",
+        "value": "999",
+        "title": "MA Project"
+    }
+,
+    {
+        "text": "MATH150",
+        "value": "150",
+        "title": "Calculus I with Review"
+    },
+    {
+        "text": "MATH152",
+        "value": "152",
+        "title": "Calculus II"
+    },
+    {
+        "text": "MATH155",
+        "value": "155",
+        "title": "Mathematics for the Life Sciences II"
+    },
+    {
+        "text": "MATH157",
+        "value": "157",
+        "title": "Calculus I for the Social Sciences"
+    },
+    {
+        "text": "MATH190",
+        "value": "190",
+        "title": "Principles of Mathematics for Teachers"
+    },
+    {
+        "text": "MATH232",
+        "value": "232",
+        "title": "Applied Linear Algebra"
+    },
+    {
+        "text": "MATH240",
+        "value": "240",
+        "title": "Algebra I: Linear Algebra"
+    },
+    {
+        "text": "MATH251",
+        "value": "251",
+        "title": "Calculus III"
+    },
+    {
+        "text": "MATH254",
+        "value": "254",
+        "title": "Vector and Complex Analysis for Applied Sciences"
+    },
+    {
+        "text": "MATH260",
+        "value": "260",
+        "title": "Introduction to Ordinary Differential Equations"
+    },
+    {
+        "text": "MATH336",
+        "value": "336",
+        "title": "Job Practicum I"
+    },
+    {
+        "text": "MATH337",
+        "value": "337",
+        "title": "Job Practicum II"
+    },
+    {
+        "text": "MATH338",
+        "value": "338",
+        "title": "Advanced Linear Algebra"
+    },
+    {
+        "text": "MATH342",
+        "value": "342",
+        "title": "Elementary Number Theory"
+    },
+    {
+        "text": "MATH426",
+        "value": "426",
+        "title": "Probability"
+    },
+    {
+        "text": "MATH436",
+        "value": "436",
+        "title": "Job Practicum III"
+    },
+    {
+        "text": "MATH437",
+        "value": "437",
+        "title": "Job Practicum IV"
+    },
+    {
+        "text": "MATH495",
+        "value": "495",
+        "title": "Selected Topics in Applied Mathematics"
+    },
+    {
+        "text": "MATH497",
+        "value": "497",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "MATH604",
+        "value": "604",
+        "title": "Geometry"
+    },
+    {
+        "text": "MATH795",
+        "value": "795",
+        "title": "Selected Topics in Applied Mathematics"
+    },
+    {
+        "text": "MATH875",
+        "value": "875",
+        "title": "PhD Preliminary Examination"
+    },
+    {
+        "text": "MATH876",
+        "value": "876",
+        "title": "PhD Comprehensive Examination"
+    },
+    {
+        "text": "MATH877",
+        "value": "877",
+        "title": "Supplementary Reading"
+    },
+    {
+        "text": "MATH879",
+        "value": "879",
+        "title": "PhD Thesis Proposal"
+    },
+    {
+        "text": "MATH880",
+        "value": "880",
+        "title": "MSc Project"
+    },
+    {
+        "text": "MATH890",
+        "value": "890",
+        "title": "Co-op I"
+    },
+    {
+        "text": "MATH891",
+        "value": "891",
+        "title": "Co-op II"
+    },
+    {
+        "text": "MATH894",
+        "value": "894",
+        "title": "Reading"
+    },
+    {
+        "text": "MATH895",
+        "value": "895",
+        "title": "Reading"
+    },
+    {
+        "text": "MATH898",
+        "value": "898",
+        "title": "MSc Thesis"
+    },
+    {
+        "text": "MATH899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "MASC400",
+        "value": "400",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "MASC401",
+        "value": "401",
+        "title": "Directed Studies in Marine Sciences"
+    },
+    {
+        "text": "MASC410",
+        "value": "410",
+        "title": "Marine Invertebrate Zoology"
+    },
+    {
+        "text": "MASC414",
+        "value": "414",
+        "title": "Coastal Biodiversity and Conservation"
+    },
+    {
+        "text": "MASC418",
+        "value": "418",
+        "title": "Behavioural Ecology of Marine Organisms"
+    },
+    {
+        "text": "MASC420",
+        "value": "420",
+        "title": "Marine Phycology"
+    },
+    {
+        "text": "MASC435",
+        "value": "435",
+        "title": "Biological Oceanography"
+    },
+    {
+        "text": "MASC474",
+        "value": "474",
+        "title": "Special Topics in Marine Biology"
+    }
+,
+    {
+        "text": "MSE100",
+        "value": "100",
+        "title": "Engineering Graphics and Design"
+    },
+    {
+        "text": "MSE110",
+        "value": "110",
+        "title": "Mechatronics Design I"
+    },
+    {
+        "text": "MSE193",
+        "value": "193",
+        "title": "Optional Job Practicum"
+    },
+    {
+        "text": "MSE293",
+        "value": "293",
+        "title": "Industrial Internship I"
+    },
+    {
+        "text": "MSE294",
+        "value": "294",
+        "title": "Special Internship I"
+    },
+    {
+        "text": "MSE300",
+        "value": "300",
+        "title": "The Business of Engineering I"
+    },
+    {
+        "text": "MSE311",
+        "value": "311",
+        "title": "Introduction to Microelectromechanical Systems"
+    },
+    {
+        "text": "MSE312",
+        "value": "312",
+        "title": "Mechatronics Design II"
+    },
+    {
+        "text": "MSE353",
+        "value": "353",
+        "title": "Power Electronics and Electric Machinery"
+    },
+    {
+        "text": "MSE381",
+        "value": "381",
+        "title": "Feedback Control Systems"
+    },
+    {
+        "text": "MSE393",
+        "value": "393",
+        "title": "Industrial Internship II"
+    },
+    {
+        "text": "MSE394",
+        "value": "394",
+        "title": "Special Internship II"
+    },
+    {
+        "text": "MSE405W",
+        "value": "405w",
+        "title": "The Business of Engineering II, Entrepreneurship for Engineers"
+    },
+    {
+        "text": "MSE411",
+        "value": "411",
+        "title": "Capstone Design Technical Project II"
+    },
+    {
+        "text": "MSE429",
+        "value": "429",
+        "title": "Advanced Kinematics for Robotic System"
+    },
+    {
+        "text": "MSE452",
+        "value": "452",
+        "title": "Power Conversion in Alternative Energy Systems"
+    },
+    {
+        "text": "MSE486",
+        "value": "486",
+        "title": "Directed Studies in Mechatronic Systems Engineering"
+    },
+    {
+        "text": "MSE487",
+        "value": "487",
+        "title": "Directed Studies in Mechatronic Systems Engineering"
+    },
+    {
+        "text": "MSE489",
+        "value": "489",
+        "title": "Directed Studies in Mechatronic Systems Engineering"
+    },
+    {
+        "text": "MSE493",
+        "value": "493",
+        "title": "Industrial Internship III"
+    },
+    {
+        "text": "MSE494",
+        "value": "494",
+        "title": "Special Internship III"
+    },
+    {
+        "text": "MSE495",
+        "value": "495",
+        "title": "Special Project Laboratory"
+    },
+    {
+        "text": "MSE496",
+        "value": "496",
+        "title": "Special Project Laboratory"
+    },
+    {
+        "text": "MSE497",
+        "value": "497",
+        "title": "Special Project Laboratory"
+    },
+    {
+        "text": "MSE498",
+        "value": "498",
+        "title": "Mechatronic Systems Engineering Thesis Proposal"
+    },
+    {
+        "text": "MSE499",
+        "value": "499",
+        "title": "Mechatronic Systems Engineering  Undergraduate Thesis"
+    },
+    {
+        "text": "MSE891",
+        "value": "891",
+        "title": "Directed Studies I"
+    },
+    {
+        "text": "MSE892",
+        "value": "892",
+        "title": "Directed Studies II"
+    },
+    {
+        "text": "MSE893",
+        "value": "893",
+        "title": "Special Topics I"
+    },
+    {
+        "text": "MSE894",
+        "value": "894",
+        "title": "Special Topics II"
+    },
+    {
+        "text": "MSE895",
+        "value": "895",
+        "title": "Special Topics III"
+    },
+    {
+        "text": "MSE898",
+        "value": "898",
+        "title": "MASc Thesis"
+    },
+    {
+        "text": "MSE899",
+        "value": "899",
+        "title": "PhD Thesis"
+    },
+    {
+        "text": "MSE924",
+        "value": "924",
+        "title": "Smart Factory II"
+    },
+    {
+        "text": "MSE981",
+        "value": "981",
+        "title": "Industrial Big Data Analytics"
+    }
+,
+    {
+        "text": "ONC510",
+        "value": "510",
+        "title": "Seminars in Oncology"
+    },
+    {
+        "text": "ONC548",
+        "value": "548",
+        "title": "Rotation in Oncology"
+    }
+,
+    {
+        "text": "NUSC482",
+        "value": "482",
+        "title": "Directed Study in Advanced Topics in Nuclear"
+    }
+,
+    {
+        "text": "REM100",
+        "value": "100",
+        "title": "Global Change"
+    },
+    {
+        "text": "REM325",
+        "value": "325",
+        "title": "Uncertainty, Risk, and Decision Analysis"
+    },
+    {
+        "text": "REM388",
+        "value": "388",
+        "title": "Wildlife Conservation"
+    },
+    {
+        "text": "REM406",
+        "value": "406",
+        "title": "Indigenous People and Co-management"
+    },
+    {
+        "text": "REM463",
+        "value": "463",
+        "title": "Special Topics"
+    },
+    {
+        "text": "REM499",
+        "value": "499",
+        "title": "Resource and Environmental Management Honours Thesis"
+    },
+    {
+        "text": "REM660",
+        "value": "660",
+        "title": "Special Topics in Natural Resources Management"
+    },
+    {
+        "text": "REM664",
+        "value": "664",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "REM690",
+        "value": "690",
+        "title": "Co-op I"
+    },
+    {
+        "text": "REM691",
+        "value": "691",
+        "title": "Co-op II"
+    },
+    {
+        "text": "REM697",
+        "value": "697",
+        "title": "MRM Thesis"
+    },
+    {
+        "text": "REM699",
+        "value": "699",
+        "title": "Research Project"
+    },
+    {
+        "text": "REM898",
+        "value": "898",
+        "title": "Thesis Proposal"
+    },
+    {
+        "text": "REM899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "PHYS100",
+        "value": "100",
+        "title": "Introduction to Physics"
+    },
+    {
+        "text": "PHYS101",
+        "value": "101",
+        "title": "Physics for the Life Sciences I"
+    },
+    {
+        "text": "PHYS102",
+        "value": "102",
+        "title": "Physics for the Life Sciences II"
+    },
+    {
+        "text": "PHYS121",
+        "value": "121",
+        "title": "Optics, Electricity and Magnetism"
+    },
+    {
+        "text": "PHYS133",
+        "value": "133",
+        "title": "Physics Laboratory II"
+    },
+    {
+        "text": "PHYS335",
+        "value": "335",
+        "title": "Practicum I"
+    },
+    {
+        "text": "PHYS336",
+        "value": "336",
+        "title": "Practicum II"
+    },
+    {
+        "text": "PHYS435",
+        "value": "435",
+        "title": "Practicum III"
+    },
+    {
+        "text": "PHYS436",
+        "value": "436",
+        "title": "Practicum IV"
+    },
+    {
+        "text": "PHYS437",
+        "value": "437",
+        "title": "Practicum V"
+    },
+    {
+        "text": "PHYS898",
+        "value": "898",
+        "title": "MSc Thesis"
+    },
+    {
+        "text": "PHYS899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "POL100",
+        "value": "100",
+        "title": "Introduction to Politics and Government"
+    },
+    {
+        "text": "POL121",
+        "value": "121",
+        "title": "Political Engagement: From the Streets to the Ballot Box"
+    },
+    {
+        "text": "POL132",
+        "value": "132",
+        "title": "From Dictatorship to Democracy: Political Regimes in the 21st Century"
+    },
+    {
+        "text": "POL232",
+        "value": "232",
+        "title": "US Politics"
+    },
+    {
+        "text": "POL253",
+        "value": "253",
+        "title": "Introduction to Public Policy"
+    },
+    {
+        "text": "POL324",
+        "value": "324",
+        "title": "The Canadian Constitution"
+    },
+    {
+        "text": "POL342",
+        "value": "342",
+        "title": "Developing Countries in Global Politics"
+    },
+    {
+        "text": "POL373",
+        "value": "373",
+        "title": "Human Security"
+    },
+    {
+        "text": "POL390",
+        "value": "390",
+        "title": "Data Visualization and Political Analysis"
+    },
+    {
+        "text": "POL448",
+        "value": "448",
+        "title": "Selected Topics in International Relations"
+    },
+    {
+        "text": "POL460",
+        "value": "460",
+        "title": "Selected Topics in Public Policy"
+    },
+    {
+        "text": "POL484",
+        "value": "484",
+        "title": "NATO Field School, Simulation and Experiential Learning Program"
+    },
+    {
+        "text": "POL496",
+        "value": "496",
+        "title": "Political Science Extra Essay Option"
+    },
+    {
+        "text": "POL498",
+        "value": "498",
+        "title": "Directed Readings in Political Science"
+    },
+    {
+        "text": "POL856",
+        "value": "856",
+        "title": "Issues in Social and Economic Policy"
+    },
+    {
+        "text": "POL880",
+        "value": "880",
+        "title": "NATO Field School, Simulation, and Experiential Learning Program"
+    },
+    {
+        "text": "POL890",
+        "value": "890",
+        "title": "PhD Seminar"
+    },
+    {
+        "text": "POL891",
+        "value": "891",
+        "title": "Masters Seminar"
+    },
+    {
+        "text": "POL892",
+        "value": "892",
+        "title": "Research Project"
+    },
+    {
+        "text": "POL893",
+        "value": "893",
+        "title": "Readings in Political Sciences"
+    },
+    {
+        "text": "POL894",
+        "value": "894",
+        "title": "Readings in Political Science II"
+    },
+    {
+        "text": "POL896",
+        "value": "896",
+        "title": "PhD Comprehensive Exam"
+    },
+    {
+        "text": "POL897",
+        "value": "897",
+        "title": "Field Exam in Major Areas of MA Concentration"
+    },
+    {
+        "text": "POL898",
+        "value": "898",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "POL899",
+        "value": "899",
+        "title": "PhD Thesis Research"
+    }
+,
+    {
+        "text": "PHIL100W",
+        "value": "100w",
+        "title": "Knowledge and Reality"
+    },
+    {
+        "text": "PHIL105",
+        "value": "105",
+        "title": "Critical Thinking"
+    },
+    {
+        "text": "PHIL110",
+        "value": "110",
+        "title": "Introduction to Logic and Reasoning"
+    },
+    {
+        "text": "PHIL120W",
+        "value": "120w",
+        "title": "Moral and Legal Problems"
+    },
+    {
+        "text": "PHIL300",
+        "value": "300",
+        "title": "Introduction to Philosophy"
+    },
+    {
+        "text": "PHIL321",
+        "value": "321",
+        "title": "Topics in Moral Philosophy"
+    },
+    {
+        "text": "PHIL328",
+        "value": "328",
+        "title": "Environmental Philosophy"
+    },
+    {
+        "text": "PHIL329",
+        "value": "329",
+        "title": "Law and Justice"
+    },
+    {
+        "text": "PHIL343",
+        "value": "343",
+        "title": "Topics in the Philosophy of Mind"
+    },
+    {
+        "text": "PHIL352",
+        "value": "352",
+        "title": "17th Century Philosophy"
+    },
+    {
+        "text": "PHIL451W",
+        "value": "451w",
+        "title": "Advanced Topics in the History of Philosophy"
+    },
+    {
+        "text": "PHIL467W",
+        "value": "467w",
+        "title": "Seminar II"
+    },
+    {
+        "text": "PHIL477",
+        "value": "477",
+        "title": "Honours Tutorial I"
+    },
+    {
+        "text": "PHIL478",
+        "value": "478",
+        "title": "Honours Tutorial II"
+    },
+    {
+        "text": "PHIL812",
+        "value": "812",
+        "title": "Selected Topics in Logic I"
+    },
+    {
+        "text": "PHIL854",
+        "value": "854",
+        "title": "Selected Topics in Seventeenth and Eighteenth Century Philosophy"
+    },
+    {
+        "text": "PHIL898",
+        "value": "898",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "PHIL899",
+        "value": "899",
+        "title": "Professional Paper Project Completion"
+    }
+,
+    {
+        "text": "PSYC100",
+        "value": "100",
+        "title": "Introduction to Psychology I"
+    },
+    {
+        "text": "PSYC102",
+        "value": "102",
+        "title": "Introduction to Psychology II"
+    },
+    {
+        "text": "PSYC201W",
+        "value": "201w",
+        "title": "Introduction to Research Methods in Psychology"
+    },
+    {
+        "text": "PSYC210",
+        "value": "210",
+        "title": "Introduction to Data Analysis in Psychology"
+    },
+    {
+        "text": "PSYC241",
+        "value": "241",
+        "title": "Introduction to Abnormal Psychology"
+    },
+    {
+        "text": "PSYC250",
+        "value": "250",
+        "title": "Introduction to Developmental Psychology"
+    },
+    {
+        "text": "PSYC300W",
+        "value": "300w",
+        "title": "Critical Analysis of Issues in Psychology"
+    },
+    {
+        "text": "PSYC355",
+        "value": "355",
+        "title": "Adolescent Development"
+    },
+    {
+        "text": "PSYC359",
+        "value": "359",
+        "title": "Developmental Disabilities"
+    },
+    {
+        "text": "PSYC362",
+        "value": "362",
+        "title": "Close Relationships"
+    },
+    {
+        "text": "PSYC366",
+        "value": "366",
+        "title": "Psychology and Environmental Sustainability"
+    },
+    {
+        "text": "PSYC383",
+        "value": "383",
+        "title": "Psychopharmacology"
+    },
+    {
+        "text": "PSYC388",
+        "value": "388",
+        "title": "Biological Rhythms and Sleep"
+    },
+    {
+        "text": "PSYC391",
+        "value": "391",
+        "title": "Selected Topics in Psychology"
+    },
+    {
+        "text": "PSYC393",
+        "value": "393",
+        "title": "Research Engagement"
+    },
+    {
+        "text": "PSYC402",
+        "value": "402",
+        "title": "Advanced Topics in History and Theoretical Psychology"
+    },
+    {
+        "text": "PSYC425",
+        "value": "425",
+        "title": "Field School I"
+    },
+    {
+        "text": "PSYC426",
+        "value": "426",
+        "title": "Field School II"
+    },
+    {
+        "text": "PSYC441",
+        "value": "441",
+        "title": "Advanced Topics in Clinical Psychology"
+    },
+    {
+        "text": "PSYC450",
+        "value": "450",
+        "title": "Advanced Topics in Developmental Psychology"
+    },
+    {
+        "text": "PSYC493",
+        "value": "493",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "PSYC494",
+        "value": "494",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "PSYC495",
+        "value": "495",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "PSYC715",
+        "value": "715",
+        "title": "Proseminar in Measurement"
+    },
+    {
+        "text": "PSYC807E",
+        "value": "807e",
+        "title": "Advanced Topics in Intervention: Cognitive-Behaviour Therapy"
+    },
+    {
+        "text": "PSYC825",
+        "value": "825",
+        "title": "Clinical Practice"
+    },
+    {
+        "text": "PSYC880",
+        "value": "880",
+        "title": "Junior Practicum"
+    },
+    {
+        "text": "PSYC881",
+        "value": "881",
+        "title": "Senior Practicum"
+    },
+    {
+        "text": "PSYC882",
+        "value": "882",
+        "title": "Neuropsychology Practicum"
+    },
+    {
+        "text": "PSYC886",
+        "value": "886",
+        "title": "Internship"
+    },
+    {
+        "text": "PSYC890",
+        "value": "890",
+        "title": "Practicum in Clinical Forensic Psychology"
+    },
+    {
+        "text": "PSYC892",
+        "value": "892",
+        "title": "Research/Policy Practicum in Law and Psychology"
+    },
+    {
+        "text": "PSYC895",
+        "value": "895",
+        "title": "MA Thesis Proposal"
+    },
+    {
+        "text": "PSYC896",
+        "value": "896",
+        "title": "PhD Thesis Proposal"
+    },
+    {
+        "text": "PSYC897",
+        "value": "897",
+        "title": "Research Project/Law & Psyc/Forensic Psyc"
+    },
+    {
+        "text": "PSYC898",
+        "value": "898",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "PSYC899",
+        "value": "899",
+        "title": "PhD Thesis"
+    },
+    {
+        "text": "PSYC991",
+        "value": "991",
+        "title": "Research Comprehensive Examination 1"
+    },
+    {
+        "text": "PSYC992",
+        "value": "992",
+        "title": "Research Comprehensive Examination 2"
+    },
+    {
+        "text": "PSYC993",
+        "value": "993",
+        "title": "Research Comprehensive Examination 3"
+    },
+    {
+        "text": "PSYC997",
+        "value": "997",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "PSYC998",
+        "value": "998",
+        "title": "Directed Readings"
+    },
+    {
+        "text": "PSYC999",
+        "value": "999",
+        "title": "PhD Clinical Comprehensive Examination"
+    }
+,
+    {
+        "text": "PLAN100",
+        "value": "100",
+        "title": "Introduction to Planning"
+    },
+    {
+        "text": "PLAN302",
+        "value": "302",
+        "title": "Planning Internship I"
+    },
+    {
+        "text": "PLAN402",
+        "value": "402",
+        "title": "Planning Internship II"
+    },
+    {
+        "text": "PLAN406",
+        "value": "406",
+        "title": "Community Planning and Development"
+    }
+,
+    {
+        "text": "STAT100",
+        "value": "100",
+        "title": "Chance and Data Analysis"
+    },
+    {
+        "text": "STAT201",
+        "value": "201",
+        "title": "Statistics for the Life Sciences"
+    },
+    {
+        "text": "STAT203",
+        "value": "203",
+        "title": "Introduction to Statistics for the Social Sciences"
+    },
+    {
+        "text": "STAT270",
+        "value": "270",
+        "title": "Introduction to Probability and Statistics"
+    },
+    {
+        "text": "STAT300W",
+        "value": "300w",
+        "title": "Statistics Communication"
+    },
+    {
+        "text": "STAT302",
+        "value": "302",
+        "title": "Analysis of Experimental and Observational Data"
+    },
+    {
+        "text": "STAT336",
+        "value": "336",
+        "title": "Job Practicum I"
+    },
+    {
+        "text": "STAT337",
+        "value": "337",
+        "title": "Job Practicum II"
+    },
+    {
+        "text": "STAT436",
+        "value": "436",
+        "title": "Job Practicum III"
+    },
+    {
+        "text": "STAT437",
+        "value": "437",
+        "title": "Job Practicum IV"
+    },
+    {
+        "text": "STAT438",
+        "value": "438",
+        "title": "Job Practicum V"
+    },
+    {
+        "text": "STAT604",
+        "value": "604",
+        "title": "Analysis of Experimental and Observational Data"
+    },
+    {
+        "text": "STAT880",
+        "value": "880",
+        "title": "Co-op I"
+    },
+    {
+        "text": "STAT881",
+        "value": "881",
+        "title": "Co-op II"
+    },
+    {
+        "text": "STAT882",
+        "value": "882",
+        "title": "Co-op III"
+    },
+    {
+        "text": "STAT894",
+        "value": "894",
+        "title": "Reading"
+    },
+    {
+        "text": "STAT895",
+        "value": "895",
+        "title": "Reading"
+    },
+    {
+        "text": "STAT897",
+        "value": "897",
+        "title": "PhD Comprehensive Exam"
+    },
+    {
+        "text": "STAT898",
+        "value": "898",
+        "title": "MSc Project"
+    },
+    {
+        "text": "STAT899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "PLCY830",
+        "value": "830",
+        "title": "Law, Public Policy and Conflict Resolution"
+    },
+    {
+        "text": "PLCY850",
+        "value": "850",
+        "title": "Co-op"
+    }
+,
+    {
+        "text": "SEE221",
+        "value": "221",
+        "title": "Statics and Mechanics of Materials"
+    },
+    {
+        "text": "SEE230",
+        "value": "230",
+        "title": "Electric Circuits"
+    },
+    {
+        "text": "SEE241",
+        "value": "241",
+        "title": "Measurement, Analysis and Forecasting"
+    },
+    {
+        "text": "SEE300",
+        "value": "300",
+        "title": "The Business of Engineering"
+    },
+    {
+        "text": "SEE310",
+        "value": "310",
+        "title": "Integrated Energy Solution II"
+    },
+    {
+        "text": "SEE324",
+        "value": "324",
+        "title": "Heat and Mass Transfer for Energy Engineering"
+    },
+    {
+        "text": "SEE331",
+        "value": "331",
+        "title": "Power Electronics"
+    },
+    {
+        "text": "SEE332",
+        "value": "332",
+        "title": "Power Systems Analysis and Design"
+    },
+    {
+        "text": "SEE341",
+        "value": "341",
+        "title": "Signals and Systems"
+    },
+    {
+        "text": "SEE342",
+        "value": "342",
+        "title": "Feedback Control Systems"
+    },
+    {
+        "text": "SEE351",
+        "value": "351",
+        "title": "Bioprocess Engineering Systems"
+    },
+    {
+        "text": "SEE352",
+        "value": "352",
+        "title": "Applied Thermodynamics and Energy Conversion"
+    },
+    {
+        "text": "SEE354",
+        "value": "354",
+        "title": "Energy Storage"
+    },
+    {
+        "text": "SEE475",
+        "value": "475",
+        "title": "Special Topics in Sustainable Energy Engineering"
+    },
+    {
+        "text": "SEE820",
+        "value": "820",
+        "title": "Materials Design for Energy Systems"
+    },
+    {
+        "text": "SEE890",
+        "value": "890",
+        "title": "PhD Qualifying Exam"
+    },
+    {
+        "text": "SEE891",
+        "value": "891",
+        "title": "Directed Studies"
+    },
+    {
+        "text": "SEE896",
+        "value": "896",
+        "title": "MASc Research Seminar"
+    },
+    {
+        "text": "SEE897",
+        "value": "897",
+        "title": "PhD Research Seminar"
+    },
+    {
+        "text": "SEE898",
+        "value": "898",
+        "title": "MASc Thesis"
+    },
+    {
+        "text": "SEE899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "SPAN100",
+        "value": "100",
+        "title": "Introductory Spanish I"
+    },
+    {
+        "text": "SPAN110",
+        "value": "110",
+        "title": "Introductory Spanish II"
+    }
+,
+    {
+        "text": "SD401",
+        "value": "401",
+        "title": "Sustainable Development Studio"
+    }
+,
+    {
+        "text": "SA101",
+        "value": "101",
+        "title": "Introduction to Anthropology (A)"
+    },
+    {
+        "text": "SA150",
+        "value": "150",
+        "title": "Introduction to Sociology (S)"
+    },
+    {
+        "text": "SA200W",
+        "value": "200w",
+        "title": "Power, Conflict and Change in Canadian Society (SA)"
+    },
+    {
+        "text": "SA201W",
+        "value": "201w",
+        "title": "Anthropology and Contemporary Life (A)"
+    },
+    {
+        "text": "SA250",
+        "value": "250",
+        "title": "Introduction to Sociological Theory (S)"
+    },
+    {
+        "text": "SA321",
+        "value": "321",
+        "title": "Social Movements (S)"
+    },
+    {
+        "text": "SA335",
+        "value": "335",
+        "title": "Gender Relations and Social Issues (S)"
+    },
+    {
+        "text": "SA350",
+        "value": "350",
+        "title": "Classical Sociological Thought (S)"
+    },
+    {
+        "text": "SA355",
+        "value": "355",
+        "title": "Quantitative Methods (S)"
+    },
+    {
+        "text": "SA356W",
+        "value": "356w",
+        "title": "Ethnography and Qualitative Methods (SA)"
+    },
+    {
+        "text": "SA366",
+        "value": "366",
+        "title": "Special Topics in Sociology (S)"
+    },
+    {
+        "text": "SA443",
+        "value": "443",
+        "title": "Ethnographic Sensibility in Action (A)"
+    },
+    {
+        "text": "SA496",
+        "value": "496",
+        "title": "Directed Readings in Anthropology (A)"
+    },
+    {
+        "text": "SA497",
+        "value": "497",
+        "title": "Directed Readings in Sociology (S)"
+    },
+    {
+        "text": "SA499",
+        "value": "499",
+        "title": "Honours Essay (SA)"
+    },
+    {
+        "text": "SA853",
+        "value": "853",
+        "title": "Readings in Sociology I"
+    },
+    {
+        "text": "SA854",
+        "value": "854",
+        "title": "Readings in Sociology II"
+    },
+    {
+        "text": "SA871",
+        "value": "871",
+        "title": "Readings in Anthropology I"
+    },
+    {
+        "text": "SA872",
+        "value": "872",
+        "title": "Readings in Anthropology II"
+    },
+    {
+        "text": "SA897",
+        "value": "897",
+        "title": "PhD Qualifying Examinations"
+    },
+    {
+        "text": "SA898",
+        "value": "898",
+        "title": "MA Thesis"
+    },
+    {
+        "text": "SA899",
+        "value": "899",
+        "title": "PhD Thesis"
+    }
+,
+    {
+        "text": "TEKX101",
+        "value": "101",
+        "title": "Introduction to 3D Printing and Laser Scanning Technologies"
+    }
+,
+    {
+        "text": "PUB231",
+        "value": "231",
+        "title": "Graphic Design Fundamentals"
+    },
+    {
+        "text": "PUB332",
+        "value": "332",
+        "title": "Graphic Design in Transition: Print and Digital Periodicals"
+    },
+    {
+        "text": "PUB375",
+        "value": "375",
+        "title": "Magazine Media Publishing"
+    },
+    {
+        "text": "PUB480",
+        "value": "480",
+        "title": "Special Topics in Publishing"
+    },
+    {
+        "text": "PUB899",
+        "value": "899",
+        "title": "Publishing Internship or Project"
+    },
+    {
+        "text": "PUB900",
+        "value": "900",
+        "title": "Publishing Project Report"
+    }
+,
+    {
+        "text": "URB497",
+        "value": "497",
+        "title": "Comparative Urban Sustainability International Field Studies"
+    },
+    {
+        "text": "URB620",
+        "value": "620",
+        "title": "Urban Communities and Cultures"
+    },
+    {
+        "text": "URB635",
+        "value": "635",
+        "title": "Urban Inequality and the Just City"
+    },
+    {
+        "text": "URB691",
+        "value": "691",
+        "title": "International Field Studies"
+    },
+    {
+        "text": "URB693",
+        "value": "693",
+        "title": "Directed Readings I"
+    },
+    {
+        "text": "URB694",
+        "value": "694",
+        "title": "Directed Readings II"
+    },
+    {
+        "text": "URB697",
+        "value": "697",
+        "title": "Research Project"
+    },
+    {
+        "text": "URB701",
+        "value": "701",
+        "title": "Co-operative Education I"
+    },
+    {
+        "text": "URB702",
+        "value": "702",
+        "title": "Co-operative Education II"
+    }
+,
+    {
+        "text": "WL104W",
+        "value": "104w",
+        "title": "Modern World Literatures"
+    },
+    {
+        "text": "WL320",
+        "value": "320",
+        "title": "Interdisciplinary Approaches to World Literature"
+    }
+]
