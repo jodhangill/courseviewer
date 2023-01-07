@@ -1,13 +1,13 @@
 import React from "react";
+import { Link, useParams } from 'react-router-dom';
 import { PreReq } from "./PreReq";
 
-export class CourseBox extends React.Component {
-    render() {
-        return (
-            <div className="box">
-                <h2>{this.props.courseNumber}</h2>
-                <PreReq value = {this.props.courseNumber}/>
-            </div>            
-        );
-    }
+export function CourseBox() {
+    const { text } = useParams();
+    return (
+        <div className="box">
+            <h2>{text}</h2>
+            <PreReq />
+        </div>            
+    );
 }
