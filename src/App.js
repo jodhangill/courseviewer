@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 import {CourseBox} from './course_box/CourseBox'
 import {
-  BrowserRouter as Router,
   Routes,
   Route,
   Link,
@@ -16,6 +15,7 @@ import Select from "react-select";
 
 function App() {
   let courses = require('./course_data/courses.json');
+  let navigate = useNavigate();
   const [selectedOptions, setSelectedOptions] = useState();
   const options = [];
   for (let i = 0; i < courses.length; i++) {
@@ -28,23 +28,20 @@ function App() {
 
   function handleSelect(data) {
     setSelectedOptions(data);
-    console.log(data);
+    let course = data.value;
+    navigate('/courses/' + course);
 
-    // const { innerText } = data.nativeEvent.target;
-    // console.log(innerText);
-
-    // console.log(options[0].value);
   }
 
   return (
     <div className="App">
       <h2>APP</h2>  
-      <Router>
-          {courses.map(course => (<Link to={'/courses/' + course?.text}/>))}        
-          <Routes>
-            <Route path='/courses/:text' element={<CourseBox/>}></Route>;
-          </Routes>        
-      </Router>
+
+      {courses.map(course => (<Link to={'/courses/' + course?.text}/>))}        
+      <Routes>
+        <Route path='/courses/:text' element={<CourseBox/>}></Route>;
+      </Routes>        
+
 
       <Select
           options={options}
@@ -52,7 +49,7 @@ function App() {
           value={selectedOptions}
           onChange={handleSelect}
           isSearchable={true}
-          isMulti
+          // isMulti
         />  
 
       
