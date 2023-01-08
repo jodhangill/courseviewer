@@ -5,14 +5,18 @@ import {
   BrowserRouter as Router,
   Routes,
   Route,
-  Link
+  Link,
+  useNavigate
 } from 'react-router-dom';
-import React from 'react';
-import Dropdown from './dropdown/Dropdown'
+import React, { useState } from "react";
+import Select from "react-select";
+
+
+
 
 function App() {
   let courses = require('./course_data/courses.json');
-
+  const [selectedOptions, setSelectedOptions] = useState();
   const options = [];
   for (let i = 0; i < courses.length; i++) {
     let name = courses[i].text;
@@ -20,29 +24,38 @@ function App() {
     let title = name + ": " + courses[i].title;
     options.push({value: name, label: title})
 
-  }
+  } 
 
- 
+  function handleSelect(data) {
+    setSelectedOptions(data);
+    console.log(data);
+
+    // const { innerText } = data.nativeEvent.target;
+    // console.log(innerText);
+
+    // console.log(options[0].value);
+  }
 
   return (
     <div className="App">
       <h2>APP</h2>  
-
-      <Dropdown
-        isSearchable
-        isMulti
-        placeHolder="Select Course"
-        options={options}
-        onChange={(value) => console.log(value)}
-        key={options.value}
-      />
-
       <Router>
           {courses.map(course => (<Link to={'/courses/' + course?.text}/>))}        
           <Routes>
             <Route path='/courses/:text' element={<CourseBox/>}></Route>;
           </Routes>        
       </Router>
+
+      <Select
+          options={options}
+          placeholder="Select Course"
+          value={selectedOptions}
+          onChange={handleSelect}
+          isSearchable={true}
+          isMulti
+        />  
+
+      
     </div>
   );
 }
