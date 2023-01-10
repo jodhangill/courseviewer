@@ -7,6 +7,8 @@ import {
 } from 'react-router-dom';
 import React, { useState } from "react";
 import CourseList from './CourseSelect';
+import { ReviewForm } from './reviews/ReviewForm';
+import Body from './reviews/ReviewBody.tsx';
 
 function App() {
   let courses = require('./course_data/courses.json');
@@ -18,7 +20,9 @@ function App() {
       {courses.map(course => (<Link to={'/courses/' + course?.text}/>))}        
       <Routes>
         <Route path='/courses/:text' element={<CourseBox/>}></Route>;
-      </Routes>         
+      </Routes>   
+      <ReviewForm />
+      <Body />
     </div>
   );
 }
