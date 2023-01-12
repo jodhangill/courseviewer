@@ -13,7 +13,7 @@ for (let i = 0; i < courses.length; i++) {
 
 const height = 35;
 
-function MenuList (props) {
+const MenuList = (props) => {
   const { options, children, maxHeight, getValue } = props;
   const [value] = getValue();
   const initialOffset = options.indexOf(value) * height;
@@ -30,7 +30,7 @@ function MenuList (props) {
   );
 }
 
-function CourseList() {
+const CourseList = () => {
     let navigate = useNavigate();
     const [selectedOptions, setSelectedOptions] = useState();
     function handleSelect(data) {

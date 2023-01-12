@@ -1,5 +1,5 @@
 import './App.css';
-import {CourseBox} from './course_box/CourseBox'
+import CourseBox from './course_box/CourseBox'
 import {
   Routes,
   Route,
@@ -7,7 +7,7 @@ import {
 } from 'react-router-dom';
 import React, { useState } from "react";
 import CourseList from './CourseSelect';
-import { ReviewForm } from './reviews/ReviewForm';
+import ReviewForm from './reviews/ReviewForm';
 import Body from './reviews/ReviewBody.tsx';
 
 function App() {

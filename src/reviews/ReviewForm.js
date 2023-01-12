@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Button, Form, Input } from "reactstrap";
 
-export function ReviewForm() {
+const ReviewForm = () => {
     const [reviews, setReviews] = useState("");
     const onChange = (e) => {
       setReviews(e.target.value);
@@ -26,3 +26,5 @@ export function ReviewForm() {
       </div>
     ); 
 }
+
+export default ReviewForm
