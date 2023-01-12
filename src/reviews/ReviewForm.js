@@ -1,29 +1,32 @@
 import React, { useState } from "react";
-import { Button, Form, Input } from "reactstrap";
+import Stars from "./Stars";
 
-const ReviewForm = () => {
-    const [reviews, setReviews] = useState("");
-    const onChange = (e) => {
-      setReviews(e.target.value);
-    };
-    const onSubmit = (e) => {
-      console.log("Form Submitted");
+const ReviewForm = ({onSubmit}) => {
+  const [data, setData] = useState('');
+    const stars = (stars) => {
+      setData(stars);
     };
     return(
-        <div className="form-container">
-        <Form onSubmit={onSubmit}>
-          <Input
-            className="reviews-form"
-            type="text"
-            placeholder="enter you reviews"
-            value={reviews}
-            onChange={onChange}
+      <form onSubmit={onSubmit}>
+        <div className="form-group">
+          <label htmlFor="stars">Stars</label>
+          <Stars id="stars" starCount={5} form={stars}/>
+          <input id="stars" value={data} disabled></input>          
+        </div>
+        <div className="form-group">
+          <label htmlFor="review">Review</label>
+          <input
+            className="form-control"
+            id="review"
+            placeholder="Write your review"
           />
-          <Button type="submit" style={{ background: "White" }}>
+        </div>
+        <div className="form-group">
+          <button className="form-control btn btn-primary" type="submit">
             Submit
-          </Button>
-        </Form>
-      </div>
+          </button>
+        </div>
+      </form>
     ); 
 }
 
