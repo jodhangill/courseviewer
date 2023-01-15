@@ -46,6 +46,7 @@ export class ReviewContainer extends Component {
             closeModal={this.closeModal}
             onKeyDown={this.onKeyDown}
             onClickOutside={this.onClickOutside}
+            course={this.props.btnText}
           />
         ) : null}
         <Body />

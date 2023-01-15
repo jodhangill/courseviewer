@@ -9,7 +9,7 @@ const ReviewButton = ({btnText, btnRef, showModal}) => {
             ref={btnRef}
             onClick={showModal}
         >
-            {btnText}
+           Rate {btnText}
         </button>
     )
 }

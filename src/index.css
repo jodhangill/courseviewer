@@ -120,3 +120,9 @@ h6 {
   overflow: hidden;
   margin-right: 17px;
 }
+
+#difficulty-text {
+  background: transparent;
+  border: none;
+  width: 30px;
+}
