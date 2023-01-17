@@ -13,10 +13,7 @@ import ReviewContainer from './reviews/ReviewContainer';
 import Stars from './reviews/Stars';
 import { collection, addDoc, getDocs } from "firebase/firestore";
 import db, { addReviews, getFirestoreData, getReviews } from './Firebase';
-
-
-
-
+import PrereqFilter from './PrereqFilter';
 
 function App() {
   let courses = require('./course_data/courses.json');
@@ -24,9 +21,11 @@ function App() {
     <div className="App">
       <h2>APP</h2>  
       <CourseList />
+      <button><Link to={'/PrerequisiteCheck'}>Prerequisite Checker</Link></button>
       {courses.map(course => (<Link to={'/courses/' + course?.text}/>))}        
       <Routes>
         <Route path='/courses/:text' element={<CourseBox/>}></Route>;
+        <Route path='/PrerequisiteCheck' element={<PrereqFilter/>}></Route>
       </Routes>   
     </div>
   );
