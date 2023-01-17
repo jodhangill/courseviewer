@@ -12,7 +12,6 @@ export function PreReq() {
     if (PreReq) {
         PreReq = removeSpaces(PreReq);        
     }
-    console.log(positions);
     document.createElement('p');
 
     return(

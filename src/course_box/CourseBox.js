@@ -1,5 +1,6 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link, useParams } from 'react-router-dom';
+import { addReviews } from "../Firebase";
 import ReviewContainer from "../reviews/ReviewContainer";
 import { PreReq } from "./PreReq";
 
@@ -10,16 +11,17 @@ const CourseBox = () => {
     const buttonText = text;
     const onSubmit = (event) => {
         event.preventDefault(event);
-        console.log(event.target.difficulty.value);
-        console.log(event.target.review.value);
-        console.log(event.target.prof.value);
-
+        const dif = event.target.difficulty.value;
+        const rev = event.target.review.value;
+        const prof = event.target.prof.value;
+        addReviews(text, dif, rev, prof);
+        
     };
     return (
         <div className="box">
             <h2>{text}</h2>
             <PreReq />
-            <ReviewContainer btnText={buttonText} onSubmit={onSubmit} />
+            <ReviewContainer btnText={buttonText} onSubmit={onSubmit}/>
         </div>            
     );
 }

@@ -40,7 +40,10 @@ export const Modal = ({
             </button>
             <div className="modal-body">
               <h3>Leave a review for {course}</h3>
-              <ReviewForm onSubmit={onSubmit} />
+              <ReviewForm onSubmit={(e) => {
+                onSubmit(e);
+                closeModal();                
+                }} />
             </div>
           </div>
         </aside>

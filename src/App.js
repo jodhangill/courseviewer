@@ -11,6 +11,12 @@ import ReviewForm from './reviews/ReviewForm';
 import Body from './reviews/ReviewBody.tsx';
 import ReviewContainer from './reviews/ReviewContainer';
 import Stars from './reviews/Stars';
+import { collection, addDoc, getDocs } from "firebase/firestore";
+import db, { addReviews, getFirestoreData, getReviews } from './Firebase';
+
+
+
+
 
 function App() {
   let courses = require('./course_data/courses.json');
