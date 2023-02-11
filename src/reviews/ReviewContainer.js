@@ -49,7 +49,7 @@ export class ReviewContainer extends Component {
             course={this.props.btnText}
           />
         ) : null}
-        <Body />
+        <Body course={this.props.btnText}/>
       </React.Fragment>
     );
   }

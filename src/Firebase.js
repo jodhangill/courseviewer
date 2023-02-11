@@ -37,13 +37,5 @@ export const addReviews = async (course, dif, rev, prof) => {
     })
 }
 
-export const getReviews = async (course, reviews) => {
-    const colRef = collection(db, course);
-    const docsSnap = await getDocs(colRef);
-    docsSnap.forEach(doc => {
-        console.log(doc.id);
-        reviews.push(doc.id);
-    })
-  }
   
 export default db;

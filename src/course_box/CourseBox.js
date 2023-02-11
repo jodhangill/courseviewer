@@ -1,13 +1,13 @@
-import React, { useState } from "react";
-import { Link, useParams } from 'react-router-dom';
+import React from "react";
+import { Link, useNavigate, useParams } from 'react-router-dom';
 import { addReviews } from "../Firebase";
 import ReviewContainer from "../reviews/ReviewContainer";
 import { PreReq } from "./PreReq";
 
-
-
 const CourseBox = () => {
-    const { text } = useParams();    
+    const { text } = useParams();  
+    const navigate = useNavigate();
+    navigate(0);
     const buttonText = text;
     const onSubmit = (event) => {
         event.preventDefault(event);
