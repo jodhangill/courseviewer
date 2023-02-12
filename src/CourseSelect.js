@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useNavigate } from 'react-router-dom';
+import { Outlet, useNavigate } from 'react-router-dom';
 import Select from "react-select";
 import { FixedSizeList as List } from "react-window";
 
@@ -40,7 +40,10 @@ const CourseList = () => {
     
     }
     return (
+      <div>
         <Select components={{ MenuList }} options={options} onChange={handleSelect} placeholder={'Select Course...'}/>
+        <Outlet />        
+      </div>
     );
 }
 

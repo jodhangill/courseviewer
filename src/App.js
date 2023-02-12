@@ -4,6 +4,7 @@ import {
   Routes,
   Route,
   Link,
+  useNavigate,
 } from 'react-router-dom';
 import React, { useState } from "react";
 import CourseList from './CourseSelect';
@@ -17,14 +18,17 @@ import PrereqFilter from './PrereqFilter';
 
 function App() {
   let courses = require('./course_data/courses.json');
+  const navigate = useNavigate();
   return (
     <div className="App">
-      <h2>APP</h2>  
-      <CourseList />
-      <button><Link to={'/PrerequisiteCheck'}>Prerequisite Checker</Link></button>
+      <h2>Course Viewer</h2>  
+      <button id='coursebtn' className='btn btn-secondary' onClick={() => navigate('/courses')}>View Courses</button>
+      <button className='btn btn-secondary' onClick={() => navigate('/PrerequisiteCheck')}>Check Prerequisites</button>
       {courses.map(course => (<Link to={'/courses/' + course?.text}/>))}        
       <Routes>
-        <Route path='/courses/:text' element={<CourseBox/>}></Route>;
+        <Route path='courses' element={<CourseList />}>
+          <Route path=':text' element={<CourseBox/>}/>
+        </Route>;
         <Route path='/PrerequisiteCheck' element={<PrereqFilter/>}></Route>
       </Routes>   
     </div>
