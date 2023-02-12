@@ -14,7 +14,7 @@ code {
 
 /* Reviews */
 .card {
-  width: 50vw;
+  width: 60vw;
   margin: auto;
   margin-bottom: 5px;
 }
@@ -28,7 +28,7 @@ code {
   box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.4);
   padding: 20px;
 }
-.user-details {
+.difficulty-details {
   align-items: center;
   display: flex;
 }
@@ -125,4 +125,17 @@ h6 {
   background: transparent;
   border: none;
   width: 30px;
+}
+
+.star {
+  margin-top: -1%;
+}
+
+.review {
+  border-bottom: 1px solid rgb(195, 195, 195);
+  padding: 1%;
+}
+
+.overall-difficulty {
+  border-bottom: 1px solid rgb(195, 195, 195);
 }

@@ -14,7 +14,8 @@ const CourseBox = () => {
         const dif = event.target.difficulty.value;
         const rev = event.target.review.value;
         const prof = event.target.prof.value;
-        addReviews(text, dif, rev, prof);
+        const date = new Date();
+        addReviews(text, dif, rev, prof, date);
         
     };
     return (

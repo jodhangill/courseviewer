@@ -6,46 +6,58 @@ import {
   CardTitle,
   CardBody,
 } from "reactstrap";
-import { collection, getDocs } from "firebase/firestore";
+import { collection, getDocs} from "firebase/firestore";
 import db from "../Firebase";
 import { useNavigate } from "react-router-dom";
+import FilledStar from '../assets/filled-star.svg';
+import Moment from "react-moment";
+import Timestamp from "react-timestamp";
+import { toDate } from 'react-timestamp/dist/util';
 
 
+let overallDifficulty = 0;
+let n = 0;
 
-
-
-let reviews: any[] = [
+const colors = [
+  'rgb(0, 230, 0)',
+  'rgb(100, 230, 0)',
+  'rgb(230, 230, 0)',
+  'rgb(230, 0, 0)',
+  'rgb(230, 0, 0)'
 ]
 
 //https://www.section.io/engineering-education/building-a-custom-user-reviews-page-in-react-typescript-and-reactstrap/
 function Body({
-  course,
-  profilePic,
-  difficulty,
-  comment,
-  reviewstamp,
+  course
 }: {
   course: string
-  firstName: string;
-  lastName: string;
-  profilePic: string;
-  difficulty: number;
-  comment: string;
-  reviewstamp: number;
+
 }) {
   const navigate = useNavigate();
   const [data, setData] = useState<any | null>(null);
   useEffect(() => {
+      let reviews: any[] = []
       const getReview = async () => {
           const colRef = collection(db, course);
           const docsSnap = await getDocs(colRef);
           docsSnap.forEach(doc => {
-              console.log(doc.id);
+              if (doc.data().active === true) {
+                reviews.push(doc.data());    
+                overallDifficulty += Number(doc.data().difficulty);
+                n++;                
+              }
               console.log(doc.data());
-              reviews.push(doc.data());
-              console.log(reviews);     
+
           })    
-          setData(reviews); 
+          setData(reviews.sort(function(a,b){
+            if (b.date == null) {
+              return -1;
+            }
+            if (a.date == null) {
+              return 1;
+            }
+            return b.date.toDate() - a.date.toDate();
+          })); 
           console.log(data);  
       }
       getReview();
@@ -79,27 +91,35 @@ function Body({
       <CardBody>
         <CardTitle tag="h1">Reviews Page</CardTitle>
         <div className="reviews-top">
-            {reviews.map((data, i) => 
-              <div>
-                <div className="user-details">
+          <div className="overall-difficulty">
+            <h2> Overall Difficulty:</h2>
+            <h2 style={{color: colors[Math.round(overallDifficulty/n) - 1]}}>{overallDifficulty != 0 ? (overallDifficulty/n).toFixed(1) : ''}</h2>            
+          </div>
 
-                  <CardSubtitle className="mb-2 prof-muted" tag="h6">
-                    {"Difficulty"}
+            {data.map((data) => 
+              <div className="review">
+                <small>
+                  {data.date != null ? <Timestamp relative className="text-muted" date={data.date.toDate()}></Timestamp> : "No date"}
+                </small>                 
+                <div className="difficulty-details">
+                  <CardSubtitle className="mb-2" tag="h6">
+                    {"Difficulty: "}
                   </CardSubtitle>
-                  {[...Array(data.difficulty || 5)].map((star) => {
-                    return <CardSubtitle tag="h5">⭐ </CardSubtitle>;
+                  {[...Array(Number(data.difficulty) || 0)].map((star) => {
+                    return <img 
+                    className="star"   
+                    src={FilledStar}/>;
                   })}
                 </div>
                 <div className="reviews-body">
                   <CardText>
-                    {data.prof}
+                    {data.review}
                   </CardText>
                 </div>
                 <CardText>
-                  <small className="prof-muted prof-bold">
-                    {data.review}
-                  </small>
-
+                  <small className="text-muted">
+                    Professor: {data.prof}
+                  </small><br/>
                 </CardText>
               </div>
             )}

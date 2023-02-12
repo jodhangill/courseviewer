@@ -6,10 +6,14 @@ const ReviewButton = ({btnText, btnRef, showModal}) => {
     return (
         <button
             className='btn btn-lg btn-secondary center modal-button'
+            style={{
+                marginBottom : 10,
+                width : "60vw"
+            }}
             ref={btnRef}
             onClick={showModal}
         >
-           Rate {btnText}
+           Review {btnText}
         </button>
     )
 }

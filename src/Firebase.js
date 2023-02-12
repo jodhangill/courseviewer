@@ -20,12 +20,13 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
-export const addReviews = async (course, dif, rev, prof) => {
+export const addReviews = async (course, dif, rev, prof, date) => {
     const dbRef = collection(db, course);
     const data = {
         difficulty: dif,
         review: rev,
         prof: prof,
+        date: date,
         active: true
      };
     addDoc(dbRef, data)
