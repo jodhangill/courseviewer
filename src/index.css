@@ -18,6 +18,16 @@ code {
   margin: auto;
   margin-bottom: 5px;
 }
+
+@media (max-width: 1000px) {
+  .card {
+    width: 100vw;
+    margin: auto;
+    margin-bottom: 5px;
+  }
+}
+
+
 .card-title {
   margin-bottom: 20px;
   font-size: x-large;
