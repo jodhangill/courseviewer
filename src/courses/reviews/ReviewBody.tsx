@@ -7,9 +7,9 @@ import {
   CardBody,
 } from "reactstrap";
 import { collection, getDocs} from "firebase/firestore";
-import db from "../Firebase";
+import db from "../../Firebase";
 import { useNavigate } from "react-router-dom";
-import FilledStar from '../assets/filled-star.svg';
+import FilledStar from '../../assets/filled-star.svg';
 import Moment from "react-moment";
 import Timestamp from "react-timestamp";
 import { toDate } from 'react-timestamp/dist/util';
@@ -46,7 +46,6 @@ function Body({
                 overallDifficulty += Number(doc.data().difficulty);
                 n++;                
               }
-              console.log(doc.data());
 
           })    
           setData(reviews.sort(function(a,b){

@@ -5,7 +5,7 @@ import { FixedSizeList as List } from "react-window";
 import CourseContainer from "./CourseContainer";
 
 
-let courses = require('./course_data/courses.json');
+let courses = require('./courses/course_data/courses.json');
 const options = [];
 for (let i = 0; i < courses.length; i++) {
   let name = courses[i].text;

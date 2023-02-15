@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import EmptyStar from '../assets/empty-star.svg';
-import FilledStar from '../assets/filled-star.svg';
+import EmptyStar from '../../assets/empty-star.svg';
+import FilledStar from '../../assets/filled-star.svg';
 
 class Stars extends Component {
   constructor(props) {

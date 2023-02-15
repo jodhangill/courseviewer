@@ -1,5 +1,5 @@
 import './App.css';
-import CourseBox from './course_box/CourseBox'
+import CourseBox from './courses/course_box/CourseBox'
 import {
   Routes,
   Route,
@@ -7,17 +7,17 @@ import {
   useNavigate,
 } from 'react-router-dom';
 import React, { useState } from "react";
-import CourseList from './CourseSelect';
-import ReviewForm from './reviews/ReviewForm';
-import Body from './reviews/ReviewBody.tsx';
-import ReviewContainer from './reviews/ReviewContainer';
-import Stars from './reviews/Stars';
+import CourseList from './courses/CourseSelect';
+import ReviewForm from './courses/reviews/ReviewForm';
+import Body from './courses/reviews/ReviewBody.tsx';
+import ReviewContainer from './courses/reviews/ReviewContainer';
+import Stars from './courses/reviews/Stars';
 import { collection, addDoc, getDocs } from "firebase/firestore";
 import db, { addReviews, getFirestoreData, getReviews } from './Firebase';
 import PrereqFilter from './PrereqFilter';
 
 function App() {
-  let courses = require('./course_data/courses.json');
+  let courses = require('./courses/course_data/courses.json');
   const navigate = useNavigate();
   return (
     <div className="App">

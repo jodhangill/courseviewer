@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, useNavigate, useParams } from 'react-router-dom';
-import { addReviews } from "../Firebase";
+import { addReviews } from "../../Firebase";
 import ReviewContainer from "../reviews/ReviewContainer";
 import { PreReq } from "./PreReq";
 
