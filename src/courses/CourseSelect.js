@@ -41,7 +41,20 @@ const CourseList = () => {
     }
     return (
       <div>
-        <Select components={{ MenuList }} options={options} onChange={handleSelect} placeholder={'Select Course...'}/>
+        <Select components={{ MenuList }} 
+        theme={(theme) => ({
+          ...theme,
+          borderRadius: 0,
+          colors: {
+          ...theme.colors,
+            text: 'orangered',
+            primary25: '',
+            primary: 'lightblue',
+          },
+        })} 
+        options={options} 
+        onChange={handleSelect} 
+        placeholder={'Select Course...'}/>
         <Outlet />        
       </div>
     );

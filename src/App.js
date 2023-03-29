@@ -16,14 +16,22 @@ import { collection, addDoc, getDocs } from "firebase/firestore";
 import db, { addReviews, getFirestoreData, getReviews } from './Firebase';
 import PrereqFilter from './PrereqFilter';
 
+function resetButtons(id) {
+  document.querySelectorAll('button').forEach(element => {
+    element.className = 'btn btn-outline-secondary';
+  });
+  document.getElementById(id).className = "btn btn-secondary";
+}
+
 function App() {
   let courses = require('./courses/course_data/courses.json');
   const navigate = useNavigate();
+  const [page, setPage] = useState();
   return (
     <div className="App">
       <h2>Course Viewer</h2>  
-      <button id='coursebtn' className='btn btn-secondary' onClick={() => navigate('/courses')}>View Courses</button>
-      <button className='btn btn-secondary' onClick={() => navigate('/PrerequisiteCheck')}>Check Prerequisites</button>
+      <button id='coursebtn' className='btn btn-secondary' onClick={() => {navigate('/courses'); resetButtons('coursebtn');}}>View Courses</button>
+      <button id='prereqbtn' className='btn btn-secondary' onClick={() => {navigate('/PrerequisiteCheck'); resetButtons('prereqbtn');}}>Check Prerequisites</button>
       {courses.map(course => (<Link to={'/courses/' + course?.text}/>))}        
       <Routes>
         <Route path='courses' element={<CourseList />}>
