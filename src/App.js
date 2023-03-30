@@ -15,6 +15,7 @@ import Stars from './courses/reviews/Stars';
 import { collection, addDoc, getDocs } from "firebase/firestore";
 import db, { addReviews, getFirestoreData, getReviews } from './Firebase';
 import PrereqFilter from './PrereqFilter';
+import MajorList from './MajorSelect';
 
 function resetButtons(id) {
   document.querySelectorAll('button').forEach(element => {
@@ -31,13 +32,17 @@ function App() {
     <div className="App">
       <h2>Course Viewer</h2>  
       <button id='coursebtn' className='btn btn-secondary' onClick={() => {navigate('/courses'); resetButtons('coursebtn');}}>View Courses</button>
-      <button id='prereqbtn' className='btn btn-secondary' onClick={() => {navigate('/PrerequisiteCheck'); resetButtons('prereqbtn');}}>Check Prerequisites</button>
-      {courses.map(course => (<Link to={'/courses/' + course?.text}/>))}        
+      <button id='prereqbtn' className='btn btn-secondary' onClick={() => {navigate('/prereqcheck'); resetButtons('prereqbtn');}}>Check Prerequisites</button>
+      {courses.map(course => (<Link to={'/courses/' + course?.text}/>))}     
+
       <Routes>
         <Route path='courses' element={<CourseList />}>
           <Route path=':text' element={<CourseBox/>}/>
         </Route>;
-        <Route path='/PrerequisiteCheck' element={<PrereqFilter/>}></Route>
+        <Route path='prereqcheck' element={<MajorList/>}>
+          <Route path=':text' element={<PrereqFilter/>}/>
+          
+        </Route>
       </Routes>   
     </div>
   );

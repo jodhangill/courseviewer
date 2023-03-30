@@ -8,7 +8,6 @@ import { useState, useEffect } from "react";
 function CourseContainer(props) {
     
     let availableCourses = props.courses;
-    console.log(availableCourses)
 
     return (
         <div className="box">

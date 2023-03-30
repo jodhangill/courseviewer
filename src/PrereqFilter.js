@@ -13,6 +13,7 @@ for (let i = 0; i < courses.length; i++) {
   options.push({value: name, label: title})
 } 
 
+
 const height = 35;
 
 const MenuList = (props) => {
@@ -32,57 +33,110 @@ const MenuList = (props) => {
   );
 }
 
-function isNumber(char) {
-  return /^\d$/.test(char);
-}
-
+let trees = require('./courses/course_data/majors/ComputingScience.json')
 const PrereqFilter = () => {
 
-    let tags = [];
-    let availableCourses = [];
-    
-    
+  let availableCourses = [];
+  let unavailableCourses = [];
+  
+  class Node
+  {
+    constructor(item)
+    {
+      this.data = item;
+      this.left = this.right = null;
+    }
+  }
+ 
+  let preIndex = 0;
+  function buildTree(In, pre, inStrt, inEnd)
+  {
+    if (inStrt > inEnd) {
+      return null;
+    }
+    let tNode = new Node(pre[preIndex++]);
+    if (inStrt == inEnd) {
+      return tNode;      
+    }
+    let inIndex = search(In, inStrt, inEnd, tNode.data);
+    tNode.left = buildTree(In, pre, inStrt, inIndex - 1);
+    tNode.right = buildTree(In, pre, inIndex + 1, inEnd);
+    return tNode;
+  }
+  function search(arr, strt, end, value)
+  {
+    let i;
+    for(i = strt; i <= end; i++)
+    {
+      if (arr[i] == value) {
+        return i;
+      }
+    }
+    return i;
+  }
+  function check(C, root) {
+    let n = C.length;
+    if (n == 0) {
+        return false;
+    }
+    if (C.find(c => c == root.data)) {  
+        if (root.right != null) {
+            return check(C, root.right);            
+        }
+        return true;
+    }
+    else if (root.left != null) {
+        if (check(C, root.left)) {
+
+            if (root.right != null) {
+                return check(C, root.right);
+            }
+            else {
+                return true
+            }
+        }  
+        else {
+            return false;
+        }
+    }
+    else {
+        return false;
+    }
+  }    
+  function isWCourse(course) {
+    return course.charAt(course.length - 1) == 'W';
+  }
     function handleSelect(data) {
-      console.log(data.length)
-
-      for(let i = 0; i < data.length; i++) {
-        let tag = data[i].value;
-
-        if(isNumber(tag[3])) {
-          tag = tag.substr(0,3) + " " + tag.substr(3,tag.length);
-        } else if(isNumber(tag[4])) {
-          tag = tag.substr(0,4) + " " + tag.substr(4,tag.length);
-        } else if(isNumber(tag[5])) {
-          tag = tag.substr(0,5) + " " + tag.substr(5,tag.length);
-        }
-
-        
-        tags[i] = tag;
+      if (data.length == 0) {
+        return;
       }
-      console.log(tags);
-
-      for(let j = 0; j < courses.length; j++) {
-
-        if(courses[j].prereqs != undefined) {
-
-          for(let i = 0; i < tags.length; i++) {
-
-            if(courses[j].prereqs.includes(tags[i])) {
-              if(!(availableCourses.indexOf(courses[j].text) > -1)) {
-                console.log(courses[j].text + "  " + courses[j].prereqs)
-                availableCourses.push(courses[j].text)
-              }
-              
-              
-              // {name: courses[j].text + ": " + courses[j].title, prereq: courses[j].prereqs}
-            }            
+      let C = [];
+      availableCourses = [];
+      unavailableCourses = [];
+      for (let i = 0; i < data.length; i++) {
+        C.push(data[i].value);
+        if (isWCourse(data[i].value)) {
+          C.push("W");
+        }
+      }
+      for (let i = 0; i < trees.length; i++) {
+        let n = trees[i].inTree.length;
+        if (n == 0) {
+          availableCourses.push(trees[i].text);
+        }
+        else {
+          preIndex = 0;
+          let root = buildTree(trees[i].inTree, trees[i].preTree, 0, n - 1);
+          if (check(C, root)) {
+            availableCourses.push(trees[i].text);
           }
+          else {
+            unavailableCourses.push(trees[i].text);
+          }          
         }
-        
-        
       }
-      // console.log(availableCourses)
-    
+      console.log(availableCourses);
+      console.log(unavailableCourses);
     }
     return (
       <div> 

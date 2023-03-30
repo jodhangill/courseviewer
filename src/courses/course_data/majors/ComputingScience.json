@@ -1,0 +1,112 @@
+[
+    {
+        "text": "CMPT105W",
+        "inTree": [],
+        "preTree": [],      
+        "creds": 0
+    },
+    {
+        "text": "CMPT120",
+        "inTree": [],
+        "preTree": [],      
+        "creds": 0    
+    },
+    {
+        "text": "CMPT125",
+        "inTree": ["CMPT130","CMPT120"],
+        "preTree": ["CMPT120","CMPT130"],      
+        "creds": 0    
+    },
+    {
+        "text": "CMPT225",
+        "inTree": ["ENSC251","ENSC252","MACM101","CMPT135","CMPT129","CMPT135"],
+        "preTree": ["MACM101","ENSC251","ENSC252","CMPT125","CMPT129","CMPT135"],      
+        "creds": 0
+    },
+    {
+        "text": "CMPT276",
+        "inTree": ["W","CMPT225","ENSC251","ENSC252","MACM101","MATH150","MATH151"],
+        "preTree": ["W","CMPT225","MACM101","ENSC251","ENSC252","MATH151","MATH150"],      
+        "creds": 0
+    },
+    {
+        "text": "CMPT295",
+        "inTree": ["MATH151","CMPT102","MACM101","CMPT135","CMPT125"],
+        "preTree": ["MACM101","MATH151","CMPT102","CMPT125","CMPT135"],      
+        "creds": 0
+    },
+    {
+        "text": "MACM101",
+        "inTree": [],
+        "preTree": [],      
+        "creds": 0
+    },
+    {
+        "text": "CMPT210",
+        "inTree": ["MACM101","MATH152","MATH240"],
+        "preTree": ["MACM101","MATH152","MATH240"],      
+        "creds": 0
+    },
+    {
+        "text": "MACM201",
+        "inTree": ["ENSC251","MATH240","MATH232","MACM101"],
+        "preTree": ["MACM101","ENSC251","MATH232","MATH240"],      
+        "creds": 0
+    },
+    {
+        "text": "MATH150",
+        "inTree": [],
+        "preTree": [],      
+        "creds": 0
+    },
+    {
+        "text": "MATH151",
+        "inTree": [],
+        "preTree": [],      
+        "creds": 0
+    },
+    {
+        "text": "MATH152",
+        "inTree": ["MATH151","MATH150"],
+        "preTree": ["MATH150","MATH151"],      
+        "creds": 0
+    },
+    {
+        "text": "MATH232",
+        "inTree": ["MACM101","MATH151","MATH150"],
+        "preTree": ["MATH150","MATH151","MACM101"],      
+        "creds": 0
+    },
+    {
+        "text": "MATH240",
+        "inTree": ["MATH157","MATH154","MACM101","MATH151","MATH150"],
+        "preTree": ["MATH150","MATH151","MACM101","MATH154","MATH157"],      
+        "creds": 0
+    },
+    {
+        "text": "STAT270",
+        "inTree": ["MATH158","MATH155","MATH152"],
+        "preTree": ["MATH152","MATH155","MATH158"],      
+        "creds": 0
+    },
+    {
+        "text": "STAT271",
+        "inTree": ["CMPT210"],
+        "preTree": ["CMPT210"],      
+        "creds": 0
+    },
+    {
+        "text": "CMPT376W",
+        "inTree": ["CMPT105W","CMPT276","CMPT275"],
+        "preTree": ["CMPT105W","CMPT275","CMPT276"],      
+        "creds": 0
+    },
+    {
+        "text": "CMPT300",
+        "inTree": ["CMPT225","ENSC254","CMPT295"],
+        "preTree": ["CMPT225","CMPT295","ENSC254"],      
+        "creds": 0
+    }
+
+
+]
