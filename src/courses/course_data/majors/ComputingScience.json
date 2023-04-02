@@ -1,112 +1,286 @@
 [
     {
         "text": "CMPT105W",
-        "inTree": [],
-        "preTree": [],      
+        "Root": "pass",
+        "Y": {},
+        "N": {},      
         "creds": 0
     },
     {
         "text": "CMPT120",
-        "inTree": [],
-        "preTree": [],      
-        "creds": 0    
+        "Root": "pass",
+        "Y": {},
+        "N": {},      
+        "creds": 0
     },
     {
         "text": "CMPT125",
-        "inTree": ["CMPT130","CMPT120"],
-        "preTree": ["CMPT120","CMPT130"],      
-        "creds": 0    
+        "Root": "CMPT120",
+        "Y": {
+            "CMPT120": "pass",
+            "CMPT130": "pass"
+        },
+        "N": {
+            "CMPT120": "CMPT130",
+            "CMPT130": "fail"
+        },      
+        "creds": 0
     },
     {
         "text": "CMPT225",
-        "inTree": ["ENSC251","ENSC252","MACM101","CMPT135","CMPT129","CMPT135"],
-        "preTree": ["MACM101","ENSC251","ENSC252","CMPT125","CMPT129","CMPT135"],      
+        "Root": "MACM101",
+        "Y": {
+            "MACM101": "CMPT125",
+            "CMPT125": "pass",
+            "CMPT129": "pass",
+            "CMPT135": "pass",
+            "ENSC251": "ENSC252",
+            "ENSC252": "pass"
+        },
+        "N": {
+            "MACM101": "ENSC251",
+            "CMPT125": "CMPT129",
+            "CMPT129": "CMPT135",
+            "CMPT135": "ENSC251",
+            "ENSC251": "fail",
+            "ENSC252": "fail"
+        },      
         "creds": 0
     },
     {
         "text": "CMPT276",
-        "inTree": ["W","CMPT225","ENSC251","ENSC252","MACM101","MATH150","MATH151"],
-        "preTree": ["W","CMPT225","MACM101","ENSC251","ENSC252","MATH151","MATH150"],      
+        "Root": "W",
+        "Y": {
+            "W": "CMPT225",
+            "CMPT225": "MACM101",
+            "MACM101": "MATH151",
+            "ENSC251": "ENSC252",
+            "ENSC252": "MATH151",
+            "MATH151": "pass",
+            "MATH150": "pass"
+        },
+        "N": {
+            "W": "fail",
+            "CMPT225": "fail",
+            "MACM101": "ENSC251",
+            "ENSC251": "fail",
+            "ENSC252": "fail",
+            "MATH151": "MATH150",
+            "MATH150": "fail"
+        },      
         "creds": 0
     },
     {
         "text": "CMPT295",
-        "inTree": ["MATH151","CMPT102","MACM101","CMPT135","CMPT125"],
-        "preTree": ["MACM101","MATH151","CMPT102","CMPT125","CMPT135"],      
+        "Root": "MACM101",
+        "Y": {
+            "MACM101": "CMPT125",
+            "CMPT125": "pass",
+            "CMPT135": "pass",
+            "MATH151": "CMPT102",
+            "CMPT102": "pass"
+        },
+        "N": {
+            "MACM101": "MATH151",
+            "CMPT125": "CMPT135",
+            "CMPT135": "MATH151",
+            "MATH151": "fail",
+            "CMPT102": "fail"
+        },      
         "creds": 0
     },
     {
         "text": "MACM101",
-        "inTree": [],
-        "preTree": [],      
+        "Root": "pass",
+        "Y": {},
+        "N": {},      
         "creds": 0
     },
     {
         "text": "CMPT210",
-        "inTree": ["MACM101","MATH152","MATH240"],
-        "preTree": ["MACM101","MATH152","MATH240"],      
+        "Root": "MACM101",
+        "Y": {
+            "MACM101": "MATH152",
+            "MATH152": "MATH240",
+            "MATH240": "pass"
+        },
+        "N": {
+            "MACM101": "fail",
+            "MATH152": "fail",
+            "MATH240": "fail"
+        },      
         "creds": 0
     },
     {
         "text": "MACM201",
-        "inTree": ["ENSC251","MATH240","MATH232","MACM101"],
-        "preTree": ["MACM101","ENSC251","MATH232","MATH240"],      
+        "Root": "MACM101",
+        "Y": {
+            "MACM101": "pass",
+            "ENSC251": "MATH232",
+            "MATH232": "pass",
+            "MATH240": "pass"
+        },
+        "N": {
+            "MACM101": "ENSC251",
+            "ENSC251": "fail",
+            "MATH232": "MATH240",
+            "MATH240": "fail"
+        },      
         "creds": 0
     },
     {
         "text": "MATH150",
-        "inTree": [],
-        "preTree": [],      
+        "Root": "pass",
+        "Y": {},
+        "N": {},      
         "creds": 0
     },
     {
         "text": "MATH151",
-        "inTree": [],
-        "preTree": [],      
+        "Root": "pass",
+        "Y": {},
+        "N": {},      
         "creds": 0
     },
     {
         "text": "MATH152",
-        "inTree": ["MATH151","MATH150"],
-        "preTree": ["MATH150","MATH151"],      
+        "Root": "MATH150",
+        "Y": {
+            "MATH150": "pass",
+            "MATH151": "pass"
+        },
+        "N": {
+            "MATH150": "MATH151",
+            "MATH151": "fail"
+        },      
         "creds": 0
     },
     {
         "text": "MATH232",
-        "inTree": ["MACM101","MATH151","MATH150"],
-        "preTree": ["MATH150","MATH151","MACM101"],      
+        "Root": "MATH150",
+        "Y": {
+            "MATH150": "pass",
+            "MATH151": "pass",
+            "MACM101": "pass"
+        },
+        "N": {
+            "MATH150": "MATH151",
+            "MATH151": "MACM101",
+            "MACM101": "fail"
+        },      
         "creds": 0
     },
     {
         "text": "MATH240",
-        "inTree": ["MATH157","MATH154","MACM101","MATH151","MATH150"],
-        "preTree": ["MATH150","MATH151","MACM101","MATH154","MATH157"],      
+        "Root": "MATH150",
+        "Y": {
+            "MATH150": "pass",
+            "MATH151": "pass",
+            "MACM101": "pass"
+        },
+        "N": {
+            "MATH150": "MATH151",
+            "MATH151": "MACM101",
+            "MACM101": "fail"
+        },       
         "creds": 0
     },
     {
         "text": "STAT270",
-        "inTree": ["MATH158","MATH155","MATH152"],
-        "preTree": ["MATH152","MATH155","MATH158"],      
+        "Root": "MATH152",
+        "Y": {
+            "MATH152": "pass",
+            "MATH155": "pass",
+            "MATH158": "pass"
+        },
+        "N": {
+            "MATH152": "MATH155",
+            "MATH155": "MATH158",
+            "MATH158": "fail"
+        },      
         "creds": 0
     },
     {
         "text": "STAT271",
-        "inTree": ["CMPT210"],
-        "preTree": ["CMPT210"],      
+        "Root": "CMPT210",
+        "Y": {
+            "CMPT210": "pass"
+        },
+        "N": {
+            "CMPT210": "fail"
+        },      
         "creds": 0
     },
     {
         "text": "CMPT376W",
-        "inTree": ["CMPT105W","CMPT276","CMPT275"],
-        "preTree": ["CMPT105W","CMPT275","CMPT276"],      
+        "Root": "CMPT105W",
+        "Y": {
+            "CMPT105W": "CMPT275",
+            "CMPT275": "pass",
+            "CMPT276": "pass"
+        },
+        "N": {
+            "CMPT105W": "fail",
+            "CMPT275": "CMPT276",
+            "CMPT276": "fail"
+        },      
         "creds": 0
     },
     {
         "text": "CMPT300",
-        "inTree": ["CMPT225","ENSC254","CMPT295"],
-        "preTree": ["CMPT225","CMPT295","ENSC254"],      
+        "Root": "CMPT225",
+        "Y": {
+            "CMPT225": "CMPT295",
+            "CMPT295": "pass",
+            "ENSC254": "pass"
+        },
+        "N": {
+            "CMPT225": "fail",
+            "CMPT295": "ENSC254",
+            "ENSC254": "fail"
+        },      
+        "creds": 0
+    },
+    {
+        "text": "CMPT307",
+        "Root": "CMPT225",
+        "Y": {
+            "CMPT225": "MACM201",
+            "MACM201": "MATH150",
+            "CMPT210": "MATH150",
+            "MATH150": "MATH232",
+            "MATH151": "MATH232",
+            "MATH232": "pass",
+            "MATH240": "pass"
+        },
+        "N": {
+            "CMPT225": "fail",
+            "MACM201": "CMPT210",
+            "CMPT210": "fail",
+            "MATH150": "MATH151",
+            "MATH151": "fail",
+            "MATH232": "MATH240",
+            "MATH240": "fail"
+        },      
+        "creds": 0
+    },
+    {
+        "text": "MACM316",
+        "Root": "MATH152",
+        "Y": {
+            "MATH152": "MATH232",
+            "MATH155": "MATH232",
+            "MATH158": "MATH232",
+            "MATH232": "pass",
+            "MATH240": "pass"
+        },
+        "N": {
+            "MATH152": "MATH155",
+            "MATH155": "MATH158",
+            "MATH158": "fail",
+            "MATH232": "MATH240",
+            "MATH240": "fail"
+        },      
         "creds": 0
     }
-
-
 ]
