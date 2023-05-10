@@ -21,7 +21,7 @@ const CourseBox = () => {
     return (
         <div className="box">
             <h2>{text}</h2>
-            <PreReq />
+            <PreReq text={text}/>
             <ReviewContainer btnText={buttonText} onSubmit={onSubmit}/>
         </div>            
     );

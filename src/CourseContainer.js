@@ -8,10 +8,9 @@ import { useState, useEffect } from "react";
 function CourseContainer(props) {
     
     let availableCourses = props.courses;
-
     return (
         <div className="box">
-            {/* <h2>{props.courses}</h2> */}
+            { <h2>{}</h2> }
 
             <div>
                 {availableCourses.map(course => (

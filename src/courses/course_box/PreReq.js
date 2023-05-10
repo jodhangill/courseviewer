@@ -6,8 +6,8 @@ const data = require('../course_data/courses.json');
 const deps = require('../course_data/departments.json');
 let positions = []
 
-export function PreReq() {
-    const {text} = useParams();
+export function PreReq(props) {
+    let text = props.text
     let PreReq = data[data.findIndex(item => item.text === text)].prereqs; 
     if (PreReq) {
         PreReq = removeSpaces(PreReq);        
