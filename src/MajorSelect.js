@@ -3,9 +3,13 @@ import { Outlet, useNavigate } from 'react-router-dom';
 import Select from "react-select";
 import { FixedSizeList as List } from "react-window";
 
+let majors = require('./courses/course_data/departments.json')
 
-const options = [{value: "Computing Science", label: "Computing Science"}];
-
+const options = [];
+for (let i = 0; i < majors.length; i++) {
+  let name = majors[i].name;
+  options.push({value: name, label: name})
+} 
 
 const height = 35;
 
