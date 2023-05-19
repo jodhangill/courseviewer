@@ -8,6 +8,9 @@ let majors = require('./courses/course_data/departments.json')
 const options = [];
 for (let i = 0; i < majors.length; i++) {
   let name = majors[i].name;
+  if (!name) {
+    name = majors[i].text;
+  }
   options.push({value: name, label: name})
 } 
 
