@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import Select from "react-select";
 import { FixedSizeList as List } from "react-window";
 import CourseContainer from "./CourseContainer";
+import { Button } from "react-bootstrap";
 
 
 let courses = require('./courses/course_data/courses.json');
@@ -34,11 +35,13 @@ const MenuList = (props) => {
   );
 }
 
-let prereqs = require('./courses/course_data/majors/ComputingScience.json')
+let prereqs = require('./courses/course_data/majors/Business.json')
 const PrereqFilter = () => {
 
-  let availableCourses = []
+  let availableCourses = [];
   let unavailableCourses = [];
+  let takenCourses = [];
+  let unitsTaken = "0";
 
   for (let i = 0; i < prereqs.length; i++) {
     if (prereqs[i].Root == "pass") {
@@ -51,15 +54,22 @@ const PrereqFilter = () => {
 
   const [available, setAvailable] = useState(availableCourses);
   const [unavailable, setUnavailable] = useState(unavailableCourses);
+  const [taken, setTaken] = useState(takenCourses);
+  const [units, setUnits] = useState(unitsTaken);
 
-  function check(C, Y, N, Root) {
-    while (Root !== "pass" && Root !== "fail") {
+  function check(C, Y, N, Root, creds) {
+    while (Root !== "pass" && Root !== "fail" && Root !== "creds") {
+      console.log(Root);
       if (C.find(c => c == Root)) {
         Root = Y[Root];
       }
       else {
         Root = N[Root]
       }
+
+    }
+    if (Root === "creds") {
+      return units >= creds;
     }
     return Root == "pass";
   }
@@ -67,21 +77,24 @@ const PrereqFilter = () => {
     return course.charAt(course.length - 1) == 'W';
   }
   function handleSelect(data) {
-    if (data.length == 0) {
-      return;
-    }
+    setTaken(data);
+  }
+  function handleUnits(e) {
+    setUnits(Number(e.target.value));
+  }
+  function checkAll() {
     let C = [];
     availableCourses = [];
     unavailableCourses = [];
-    for (let i = 0; i < data.length; i++) {
+    for (let i = 0; i < taken.length; i++) {
 
-      C.push(data[i].value);
-      if (isWCourse(data[i].value)) {
+      C.push(taken[i].value);
+      if (isWCourse(taken[i].value)) {
         C.push("W");
       }
     }
     for (let i = 0; i < prereqs.length; i++) {
-      if (check(C, prereqs[i].Y, prereqs[i].N, prereqs[i].Root)) {
+      if (check(C, prereqs[i].Y, prereqs[i].N, prereqs[i].Root, prereqs[i].creds)) {
         availableCourses.push(prereqs[i].text);
       }
       else {
@@ -94,6 +107,7 @@ const PrereqFilter = () => {
     setUnavailable(unavailableCourses);
   }
 
+
   return (
     <div>
       <Select
@@ -103,6 +117,17 @@ const PrereqFilter = () => {
         placeholder={'Select Course...'}
         isMulti
       />
+      <label>Total Units:</label>
+      <input
+        id="units"
+        onKeyPress={(event) => {
+          if (!/[0-9]/.test(event.key)) {
+            event.preventDefault();
+          }
+        }}
+        onChange={handleUnits}
+      />
+      <button onClick={checkAll}>OK</button>
       <h2>Available</h2>
       <CourseContainer
         courses={available}

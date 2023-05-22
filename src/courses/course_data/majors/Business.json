@@ -1,0 +1,35 @@
+[
+    {
+        "text": "BUS201",
+        "Root": "pass",
+        "Y": {},
+        "N": {},      
+        "creds": 0
+    },
+    {
+        "text": "BUS202",
+        "Root": "pass",
+        "Y": {},
+        "N": {},      
+        "creds": 0
+    },
+    {
+        "text": "BUS100",
+        "Root": "pass",
+        "Y": {},
+        "N": {},      
+        "creds": 0
+    },
+    {
+        "text": "BUS217W",
+        "Root": "BUS201",
+        "Y": {
+            "BUS201": "pass"
+        },
+        "N": {
+            "BUS201": "creds"
+        },      
+        "creds": 45
+    }
+
+]
