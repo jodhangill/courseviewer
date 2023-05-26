@@ -4,6 +4,8 @@ import Select from "react-select";
 import { FixedSizeList as List } from "react-window";
 import CourseContainer from "./CourseContainer";
 import { Button } from "react-bootstrap";
+// import queryString from 'query-string';
+
 
 
 let courses = require('./courses/course_data/courses.json');
@@ -35,7 +37,10 @@ const MenuList = (props) => {
   );
 }
 
-let prereqs = require('./courses/course_data/majors/Business.json')
+let url = window.location.href
+let major = (url.split('/'))[4].replaceAll("%20", "")
+
+let prereqs = require('./courses/course_data/majors/' + major + '.json')
 const PrereqFilter = () => {
 
   let availableCourses = [];
@@ -114,10 +119,10 @@ const PrereqFilter = () => {
         components={{ MenuList }}
         options={options}
         onChange={handleSelect}
-        placeholder={'Select Course...'}
+        placeholder={'Select Completed Course...'}
         isMulti
       />
-      <label>Total Units:</label>
+      <label>Total Units Completed:</label>
       <input
         id="units"
         onKeyPress={(event) => {
