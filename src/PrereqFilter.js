@@ -37,10 +37,10 @@ const MenuList = (props) => {
   );
 }
 
-let url = window.location.href
-let major = (url.split('/'))[4].replaceAll("%20", "")
 
-let prereqs = require('./courses/course_data/majors/' + major + '.json')
+
+
+
 const PrereqFilter = () => {
 
   let availableCourses = [];
@@ -48,19 +48,14 @@ const PrereqFilter = () => {
   let takenCourses = [];
   let unitsTaken = "0";
 
-  for (let i = 0; i < prereqs.length; i++) {
-    if (prereqs[i].Root == "pass") {
-      availableCourses.push(prereqs[i].text);
-    }
-    else {
-      unavailableCourses.push(prereqs[i].text);
-    }
-  }
+  
 
   const [available, setAvailable] = useState(availableCourses);
   const [unavailable, setUnavailable] = useState(unavailableCourses);
   const [taken, setTaken] = useState(takenCourses);
   const [units, setUnits] = useState(unitsTaken);
+
+
 
   function check(C, Y, N, Root, creds) {
     while (Root !== "pass" && Root !== "fail" && Root !== "creds") {
@@ -88,6 +83,12 @@ const PrereqFilter = () => {
     setUnits(Number(e.target.value));
   }
   function checkAll() {
+    let url = window.location.href
+    let major;
+    if ((url.split('/'))[4]) {
+      major = (url.split('/'))[4].replaceAll("%20", "");
+    }
+    let prereqs = require('./courses/course_data/majors/' + major + '.json');
     let C = [];
     availableCourses = [];
     unavailableCourses = [];
@@ -110,6 +111,8 @@ const PrereqFilter = () => {
     console.log(unavailableCourses);
     setAvailable(availableCourses);
     setUnavailable(unavailableCourses);
+    
+
   }
 
 

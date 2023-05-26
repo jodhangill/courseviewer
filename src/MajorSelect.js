@@ -11,7 +11,18 @@ for (let i = 0; i < majors.length; i++) {
   if (!name) {
     name = majors[i].text;
   }
-  options.push({value: name, label: name})
+  console.log(name);
+  try {
+    require('./courses/course_data/majors/' + name.replace(/\s/g, '') + '.json');
+    options.push({ value: name, label: name })
+  } catch (e) {
+    if (e instanceof Error && e.code === "MODULE_NOT_FOUND")
+      console.log("Can't load!");
+    else
+      throw e;
+  }
+
+
 } 
 
 const height = 35;
